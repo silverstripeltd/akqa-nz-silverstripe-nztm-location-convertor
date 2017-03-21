@@ -1,0 +1,4898 @@
+[
+  {
+    "Station ID": 3422,
+    "Station Name": "Addington Station",
+    "Ycoord": 5177641,
+    "Xcoord": 1569306,
+    "Latitude": -43.55354831,
+    "Longitude": 172.6199891
+  },
+  {
+    "Station ID": 1218,
+    "Station Name": "Ahipara Volunteer Fire Brigade (Auxiliary)",
+    "Ycoord": 6108478,
+    "Xcoord": 1614100,
+    "Latitude": -35.16652534,
+    "Longitude": 173.1548332
+  },
+  {
+    "Station ID": 1479,
+    "Station Name": "Ahuroa Voluntary Rural Fire Force",
+    "Ycoord": 5959435,
+    "Xcoord": 1733137,
+    "Latitude": -36.50116035,
+    "Longitude": 174.4866203
+  },
+  {
+    "Station ID": 3446,
+    "Station Name": "Akaroa Volunteer Fire Brigade",
+    "Ycoord": 5149390,
+    "Xcoord": 1597158,
+    "Latitude": -43.80854669,
+    "Longitude": 172.9646582
+  },
+  {
+    "Station ID": 2746,
+    "Station Name": "Akitio Voluntary Rural Fire Force",
+    "Ycoord": 5498255,
+    "Xcoord": 1888822,
+    "Latitude": -40.61607416,
+    "Longitude": 176.4141542
+  },
+  {
+    "Station ID": 1485,
+    "Station Name": "Albany Station",
+    "Ycoord": 5931265,
+    "Xcoord": 1752115,
+    "Latitude": -36.75217236,
+    "Longitude": 174.7040315
+  },
+  {
+    "Station ID": 3597,
+    "Station Name": "Albury Voluntary Rural Fire Force",
+    "Ycoord": 5100301,
+    "Xcoord": 1430073,
+    "Latitude": -44.23070345,
+    "Longitude": 170.8722703
+  },
+  {
+    "Station ID": 3639,
+    "Station Name": "Alexandra Volunteer Fire Brigade",
+    "Ycoord": 4982658,
+    "Xcoord": 1316719,
+    "Latitude": -45.25248481,
+    "Longitude": 169.3898453
+  },
+  {
+    "Station ID": 3486,
+    "Station Name": "Alford Forest Voluntary Rural Fire Force",
+    "Ycoord": 5170134,
+    "Xcoord": 1479221,
+    "Latitude": -43.61197507,
+    "Longitude": 171.503263
+  },
+  {
+    "Station ID": 3448,
+    "Station Name": "Amberley Volunteer Fire Brigade",
+    "Ycoord": 5222130,
+    "Xcoord": 1577742,
+    "Latitude": -43.15324965,
+    "Longitude": 172.7262357
+  },
+  {
+    "Station ID": 3512,
+    "Station Name": "Amuri / Waiau Voluntary Rural Fire Force",
+    "Ycoord": 5277577,
+    "Xcoord": 1603373,
+    "Latitude": -42.65425596,
+    "Longitude": 173.0411465
+  },
+  {
+    "Station ID": 3244,
+    "Station Name": "Anakoha Voluntary Rural Fire Force",
+    "Ycoord": 5454226,
+    "Xcoord": 1693389,
+    "Latitude": -41.05784482,
+    "Longitude": 174.1113922
+  },
+  {
+    "Station ID": 3554,
+    "Station Name": "Aorangi Voluntary Rural Fire Force",
+    "Ycoord": 5082368,
+    "Xcoord": 1460858,
+    "Latitude": -44.39860822,
+    "Longitude": 171.2527611
+  },
+  {
+    "Station ID": 2431,
+    "Station Name": "Apiti Volunteer Fire Brigade",
+    "Ycoord": 5571329,
+    "Xcoord": 1845114,
+    "Latitude": -39.97267667,
+    "Longitude": 175.8701852
+  },
+  {
+    "Station ID": 3248,
+    "Station Name": "Appleby Voluntary Rural Fire Force",
+    "Ycoord": 5427833,
+    "Xcoord": 1610401,
+    "Latitude": -41.30088376,
+    "Longitude": 173.1242374
+  },
+  {
+    "Station ID": 2781,
+    "Station Name": "Aramoana Voluntary Rural Fire Force",
+    "Ycoord": 5548578,
+    "Xcoord": 1927310,
+    "Latitude": -40.14939954,
+    "Longitude": 176.8423747
+  },
+  {
+    "Station ID": 1282,
+    "Station Name": "Ararua Voluntary Rural Fire Force",
+    "Ycoord": 6008865,
+    "Xcoord": 1705409,
+    "Latitude": -36.05907321,
+    "Longitude": 174.1704021
+  },
+  {
+    "Station ID": 3778,
+    "Station Name": "Arrowtown Volunteer Fire Brigade",
+    "Ycoord": 5015301,
+    "Xcoord": 1271196,
+    "Latitude": -44.93963247,
+    "Longitude": 168.8325488
+  },
+  {
+    "Station ID": 3596,
+    "Station Name": "Arthurs Pass Voluntary Rural Fire Force",
+    "Ycoord": 5244932,
+    "Xcoord": 1482669,
+    "Latitude": -42.93921026,
+    "Longitude": 171.5619273
+  },
+  {
+    "Station ID": 3490,
+    "Station Name": "Ashburton Voluntary Rural Fire Force",
+    "Ycoord": 5137293,
+    "Xcoord": 1499211,
+    "Latitude": -43.91057563,
+    "Longitude": 171.7447542
+  },
+  {
+    "Station ID": 3462,
+    "Station Name": "Ashburton Volunteer Fire Brigade",
+    "Ycoord": 5137696,
+    "Xcoord": 1499663,
+    "Latitude": -43.90700971,
+    "Longitude": 171.750458
+  },
+  {
+    "Station ID": 2422,
+    "Station Name": "Ashhurst Volunteer Fire Brigade",
+    "Ycoord": 5536271,
+    "Xcoord": 1834062,
+    "Latitude": -40.29130234,
+    "Longitude": 175.7536265
+  },
+  {
+    "Station ID": 2762,
+    "Station Name": "Ashley Clinton Fire Brigade",
+    "Ycoord": 5572652,
+    "Xcoord": 1878664,
+    "Latitude": -39.95038974,
+    "Longitude": 176.2619116
+  },
+  {
+    "Station ID": 3991,
+    "Station Name": "Athol Voluntary Rural Fire Force",
+    "Ycoord": 4950702,
+    "Xcoord": 1254258,
+    "Latitude": -45.51137851,
+    "Longitude": 168.5736301
+  },
+  {
+    "Station ID": 1420,
+    "Station Name": "Auckland City Station",
+    "Ycoord": 5919636,
+    "Xcoord": 1756826,
+    "Latitude": -36.85618781,
+    "Longitude": 174.759179
+  },
+  {
+    "Station ID": 1499,
+    "Station Name": "Auckland Operational Support Unit",
+    "Ycoord": 5919636,
+    "Xcoord": 1756826,
+    "Latitude": -36.85618781,
+    "Longitude": 174.759179
+  },
+  {
+    "Station ID": 2941,
+    "Station Name": "Avalon Station",
+    "Ycoord": 5438027,
+    "Xcoord": 1763120,
+    "Latitude": -41.19269577,
+    "Longitude": 174.945182
+  },
+  {
+    "Station ID": 1460,
+    "Station Name": "Avondale Station",
+    "Ycoord": 5915176,
+    "Xcoord": 1751592,
+    "Latitude": -36.89722954,
+    "Longitude": 174.7013825
+  },
+  {
+    "Station ID": 1759,
+    "Station Name": "Awhitu Voluntary Rural Fire Force",
+    "Ycoord": 5891891,
+    "Xcoord": 1744044,
+    "Latitude": -37.10822918,
+    "Longitude": 174.6211495
+  },
+  {
+    "Station ID": 3646,
+    "Station Name": "Balclutha Volunteer Fire Brigade",
+    "Ycoord": 4874455,
+    "Xcoord": 1348511,
+    "Latitude": -46.23692202,
+    "Longitude": 169.7381129
+  },
+  {
+    "Station ID": 3955,
+    "Station Name": "Balfour Volunteer Fire Brigade",
+    "Ycoord": 4914293,
+    "Xcoord": 1257312,
+    "Latitude": -45.83963023,
+    "Longitude": 168.5869538
+  },
+  {
+    "Station ID": 1461,
+    "Station Name": "Balmoral Station",
+    "Ycoord": 5916319,
+    "Xcoord": 1755496,
+    "Latitude": -36.88629526,
+    "Longitude": 174.744946
+  },
+  {
+    "Station ID": 2654,
+    "Station Name": "Bay View Volunteer Fire Brigade",
+    "Ycoord": 5629311,
+    "Xcoord": 1932924,
+    "Latitude": -39.4214575,
+    "Longitude": 176.8672309
+  },
+  {
+    "Station ID": 1443,
+    "Station Name": "Beachlands Volunteer Fire Brigade",
+    "Ycoord": 5915866,
+    "Xcoord": 1778195,
+    "Latitude": -36.88636403,
+    "Longitude": 174.9996442
+  },
+  {
+    "Station ID": 3794,
+    "Station Name": "Beaumont Voluntary Rural Fire Force",
+    "Ycoord": 4919499,
+    "Xcoord": 1330611,
+    "Latitude": -45.82540682,
+    "Longitude": 169.5318005
+  },
+  {
+    "Station ID": 1648,
+    "Station Name": "Benneydale Volunteer Fire Brigade",
+    "Ycoord": 5733622,
+    "Xcoord": 1806081,
+    "Latitude": -38.52194758,
+    "Longitude": 175.363938
+  },
+  {
+    "Station ID": 1475,
+    "Station Name": "Bethells Beach Voluntary Rural Fire Force",
+    "Ycoord": 5918649,
+    "Xcoord": 1732877,
+    "Latitude": -36.86875433,
+    "Longitude": 174.4907966
+  },
+  {
+    "Station ID": 1482,
+    "Station Name": "Birkenhead Station",
+    "Ycoord": 5924714,
+    "Xcoord": 1753064,
+    "Latitude": -36.81104882,
+    "Longitude": 174.715974
+  },
+  {
+    "Station ID": 3267,
+    "Station Name": "Blackball Volunteer Fire Brigade",
+    "Ycoord": 5308623,
+    "Xcoord": 1469252,
+    "Latitude": -42.36367012,
+    "Longitude": 171.412199
+  },
+  {
+    "Station ID": 3997,
+    "Station Name": "Blackmount Voluntary Rural Fire Force",
+    "Ycoord": 4915282,
+    "Xcoord": 1186015,
+    "Latitude": -45.79169379,
+    "Longitude": 167.6733243
+  },
+  {
+    "Station ID": 3664,
+    "Station Name": "Blackstone Voluntary Rural Fire Force",
+    "Ycoord": 5000823,
+    "Xcoord": 1332557,
+    "Latitude": -45.09545715,
+    "Longitude": 169.6010524
+  },
+  {
+    "Station ID": 3209,
+    "Station Name": "Blenheim Voluntary Rural Fire Force",
+    "Ycoord": 5400909,
+    "Xcoord": 1678249,
+    "Latitude": -41.53964494,
+    "Longitude": 173.9380961
+  },
+  {
+    "Station ID": 3224,
+    "Station Name": "Blenheim Volunteer Fire Brigade",
+    "Ycoord": 5403867,
+    "Xcoord": 1680037,
+    "Latitude": -41.51282788,
+    "Longitude": 173.9591355
+  },
+  {
+    "Station ID": 3798,
+    "Station Name": "Blue Mountains Rural Fire Party",
+    "Ycoord": 4905804,
+    "Xcoord": 1312329,
+    "Latitude": -45.94103033,
+    "Longitude": 169.288722
+  },
+  {
+    "Station ID": 3823,
+    "Station Name": "Bluff Volunteer Fire Brigade",
+    "Ycoord": 4828818,
+    "Xcoord": 1242832,
+    "Latitude": -46.59904545,
+    "Longitude": 168.3364805
+  },
+  {
+    "Station ID": 3417,
+    "Station Name": "Bottle Lake Voluntary Rural Fire Force",
+    "Ycoord": 5187054,
+    "Xcoord": 1574160,
+    "Latitude": -43.46897624,
+    "Longitude": 172.6805299
+  },
+  {
+    "Station ID": 3633,
+    "Station Name": "Brighton Volunteer Fire Brigade",
+    "Ycoord": 4908097,
+    "Xcoord": 1392944,
+    "Latitude": -45.94945575,
+    "Longitude": 170.3283676
+  },
+  {
+    "Station ID": 3250,
+    "Station Name": "Brightwater Voluntary Rural Fire Force",
+    "Ycoord": 5419338,
+    "Xcoord": 1609432,
+    "Latitude": -41.37741601,
+    "Longitude": 173.1127947
+  },
+  {
+    "Station ID": 1255,
+    "Station Name": "Broadwood Voluntary Rural Fire Force",
+    "Ycoord": 6098468,
+    "Xcoord": 1635524,
+    "Latitude": -35.25625562,
+    "Longitude": 173.3905186
+  },
+  {
+    "Station ID": 3431,
+    "Station Name": "Brooklands Volunteer Fire Brigade",
+    "Ycoord": 5194766,
+    "Xcoord": 1575402,
+    "Latitude": -43.39957711,
+    "Longitude": 172.6962322
+  },
+  {
+    "Station ID": 2925,
+    "Station Name": "Brooklyn Station",
+    "Ycoord": 5425842,
+    "Xcoord": 1747704,
+    "Latitude": -41.30536212,
+    "Longitude": 174.7643857
+  },
+  {
+    "Station ID": 3838,
+    "Station Name": "Browns Volunteer Fire Brigade",
+    "Ycoord": 4879102,
+    "Xcoord": 1246220,
+    "Latitude": -46.14975465,
+    "Longitude": 168.4185314
+  },
+  {
+    "Station ID": 3263,
+    "Station Name": "Brunner Volunteer Fire Brigade",
+    "Ycoord": 5298651,
+    "Xcoord": 1460868,
+    "Latitude": -42.45198408,
+    "Longitude": 171.3080142
+  },
+  {
+    "Station ID": 2482,
+    "Station Name": "Bulls Volunteer Fire Brigade",
+    "Ycoord": 5550083,
+    "Xcoord": 1802928,
+    "Latitude": -40.17510803,
+    "Longitude": 175.3833089
+  },
+  {
+    "Station ID": 2423,
+    "Station Name": "Bunnythorpe Volunteer Fire Brigade",
+    "Ycoord": 5537545,
+    "Xcoord": 1823727,
+    "Latitude": -40.28266538,
+    "Longitude": 175.6317195
+  },
+  {
+    "Station ID": 3592,
+    "Station Name": "Burkes Pass Voluntary Rural Fire Force",
+    "Ycoord": 5115442,
+    "Xcoord": 1412258,
+    "Latitude": -44.0901286,
+    "Longitude": 170.6547835
+  },
+  {
+    "Station ID": 1644,
+    "Station Name": "Cambridge Volunteer Fire Brigade",
+    "Ycoord": 5802951,
+    "Xcoord": 1817085,
+    "Latitude": -37.8950854,
+    "Longitude": 175.4688676
+  },
+  {
+    "Station ID": 3558,
+    "Station Name": "Cannington Voluntary Rural Fire Force",
+    "Ycoord": 5083962,
+    "Xcoord": 1439032,
+    "Latitude": -44.37974645,
+    "Longitude": 170.9793396
+  },
+  {
+    "Station ID": 3202,
+    "Station Name": "Canvastown Voluntary Rural Fire Force",
+    "Ycoord": 5428692,
+    "Xcoord": 1656140,
+    "Latitude": -41.2912608,
+    "Longitude": 173.670483
+  },
+  {
+    "Station ID": 2862,
+    "Station Name": "Carterton Volunteer Fire Brigade",
+    "Ycoord": 5455274,
+    "Xcoord": 1812434,
+    "Latitude": -41.02605747,
+    "Longitude": 175.5267987
+  },
+  {
+    "Station ID": 2855,
+    "Station Name": "Castlepoint Voluntary Rural Fire Force",
+    "Ycoord": 5467470,
+    "Xcoord": 1871335,
+    "Latitude": -40.8988905,
+    "Longitude": 176.2211111
+  },
+  {
+    "Station ID": 1248,
+    "Station Name": "Cavalli Voluntary Rural Fire Force",
+    "Ycoord": 6121564,
+    "Xcoord": 1681993,
+    "Latitude": -35.04529321,
+    "Longitude": 173.8990214
+  },
+  {
+    "Station ID": 3550,
+    "Station Name": "Cave Voluntary Rural Fire Force",
+    "Ycoord": 5091605,
+    "Xcoord": 1436477,
+    "Latitude": -44.31040921,
+    "Longitude": 170.949686
+  },
+  {
+    "Station ID": 3392,
+    "Station Name": "Charleston Voluntary Rural Fire Force",
+    "Ycoord": 5359419,
+    "Xcoord": 1470527,
+    "Latitude": -41.90656288,
+    "Longitude": 171.4389514
+  },
+  {
+    "Station ID": 1642,
+    "Station Name": "Chartwell Station",
+    "Ycoord": 5818923,
+    "Xcoord": 1801640,
+    "Latitude": -37.75479489,
+    "Longitude": 175.2888992
+  },
+  {
+    "Station ID": 2788,
+    "Station Name": "Chatham Islands Volunteer Fire Brigade",
+    "Ycoord": 5079961,
+    "Xcoord": 2438136,
+    "Latitude": -43.9535797,
+    "Longitude": -176.5561318
+  },
+  {
+    "Station ID": 2429,
+    "Station Name": "Cheltenham Fire Brigade (Auxiliary)",
+    "Ycoord": 5553392,
+    "Xcoord": 1826576,
+    "Latitude": -40.13927989,
+    "Longitude": 175.6596142
+  },
+  {
+    "Station ID": 3465,
+    "Station Name": "Cheviot Volunteer Fire Brigade",
+    "Ycoord": 5259880,
+    "Xcoord": 1622475,
+    "Latitude": -42.81330402,
+    "Longitude": 173.2749011
+  },
+  {
+    "Station ID": 3421,
+    "Station Name": "Christchurch City Station",
+    "Ycoord": 5180624,
+    "Xcoord": 1571252,
+    "Latitude": -43.52676672,
+    "Longitude": 172.6442388
+  },
+  {
+    "Station ID": 3553,
+    "Station Name": "Clandeboye Voluntary Rural Fire Force",
+    "Ycoord": 5103396,
+    "Xcoord": 1470514,
+    "Latitude": -44.21115888,
+    "Longitude": 171.3791798
+  },
+  {
+    "Station ID": 3505,
+    "Station Name": "Clarence/Kekerengu Voluntary Rural Fire Force",
+    "Ycoord": 5332456,
+    "Xcoord": 1675157,
+    "Latitude": -42.1564149,
+    "Longitude": 173.9097219
+  },
+  {
+    "Station ID": 1446,
+    "Station Name": "Clevedon Volunteer Fire Brigade",
+    "Ycoord": 5904435,
+    "Xcoord": 1781721,
+    "Latitude": -36.98867128,
+    "Longitude": 175.0419359
+  },
+  {
+    "Station ID": 3649,
+    "Station Name": "Clinton Volunteer Fire Brigade",
+    "Ycoord": 4877022,
+    "Xcoord": 1320209,
+    "Latitude": -46.20281193,
+    "Longitude": 169.3732579
+  },
+  {
+    "Station ID": 3647,
+    "Station Name": "Clutha Valley Fire Brigade (Auxiliary)",
+    "Ycoord": 4889425,
+    "Xcoord": 1332805,
+    "Latitude": -46.09644755,
+    "Longitude": 169.5432126
+  },
+  {
+    "Station ID": 3641,
+    "Station Name": "Clyde Volunteer Fire Brigade",
+    "Ycoord": 4989649,
+    "Xcoord": 1310708,
+    "Latitude": -45.18723972,
+    "Longitude": 169.3174599
+  },
+  {
+    "Station ID": 3570,
+    "Station Name": "Coalgate Fire Brigade (Auxiliary)",
+    "Ycoord": 5185123,
+    "Xcoord": 1516348,
+    "Latitude": -43.48213068,
+    "Longitude": 171.9655719
+  },
+  {
+    "Station ID": 3262,
+    "Station Name": "Cobden Volunteer Fire Brigade",
+    "Ycoord": 5299768,
+    "Xcoord": 1452947,
+    "Latitude": -42.4404672,
+    "Longitude": 171.2120174
+  },
+  {
+    "Station ID": 3834,
+    "Station Name": "Colac Bay Volunteer Fire Brigade",
+    "Ycoord": 4853042,
+    "Xcoord": 1206002,
+    "Latitude": -46.36133486,
+    "Longitude": 167.8779404
+  },
+  {
+    "Station ID": 3240,
+    "Station Name": "Collingwood Volunteer Fire Brigade",
+    "Ycoord": 5497053,
+    "Xcoord": 1573203,
+    "Latitude": -40.67696382,
+    "Longitude": 172.6829162
+  },
+  {
+    "Station ID": 1680,
+    "Station Name": "Colville Voluntary Rural Fire Force",
+    "Ycoord": 5942939,
+    "Xcoord": 1821346,
+    "Latitude": -36.63340437,
+    "Longitude": 175.4756449
+  },
+  {
+    "Station ID": 3508,
+    "Station Name": "Conway Flat Voluntary Rural Fire Force",
+    "Ycoord": 5282597,
+    "Xcoord": 1636058,
+    "Latitude": -42.60821161,
+    "Longitude": 173.4395949
+  },
+  {
+    "Station ID": 1661,
+    "Station Name": "Cooks Beach Volunteer Fire Brigade",
+    "Ycoord": 5919569,
+    "Xcoord": 1844540,
+    "Latitude": -36.83816925,
+    "Longitude": 175.7422826
+  },
+  {
+    "Station ID": 1657,
+    "Station Name": "Coromandel Volunteer Fire Brigade",
+    "Ycoord": 5928581,
+    "Xcoord": 1823144,
+    "Latitude": -36.76229738,
+    "Longitude": 175.4999235
+  },
+  {
+    "Station ID": 3642,
+    "Station Name": "Cromwell Volunteer Fire Brigade",
+    "Ycoord": 5004774,
+    "Xcoord": 1300387,
+    "Latitude": -45.04708125,
+    "Longitude": 169.195417
+  },
+  {
+    "Station ID": 3466,
+    "Station Name": "Culverden Volunteer Fire Brigade",
+    "Ycoord": 5264059,
+    "Xcoord": 1587476,
+    "Latitude": -42.77589796,
+    "Longitude": 172.8468964
+  },
+  {
+    "Station ID": 3578,
+    "Station Name": "Cust Volunteer Fire Brigade",
+    "Ycoord": 5204418,
+    "Xcoord": 1549692,
+    "Latitude": -43.31138651,
+    "Longitude": 172.3796392
+  },
+  {
+    "Station ID": 2767,
+    "Station Name": "Dannevirke Volunteer Fire Brigade",
+    "Ycoord": 5544216,
+    "Xcoord": 1863637,
+    "Latitude": -40.21102886,
+    "Longitude": 176.0978435
+  },
+  {
+    "Station ID": 3595,
+    "Station Name": "Darfield Voluntary Rural Fire Force",
+    "Ycoord": 5184263,
+    "Xcoord": 1528619,
+    "Latitude": -43.49114547,
+    "Longitude": 172.1171801
+  },
+  {
+    "Station ID": 3569,
+    "Station Name": "Darfield Volunteer Fire Brigade",
+    "Ycoord": 5184513,
+    "Xcoord": 1528355,
+    "Latitude": -43.4888694,
+    "Longitude": 172.1139483
+  },
+  {
+    "Station ID": 1259,
+    "Station Name": "Dargaville DOC Voluntary Rural Fire Force",
+    "Ycoord": 6021230,
+    "Xcoord": 1676069,
+    "Latitude": -35.95034131,
+    "Longitude": 173.8434773
+  },
+  {
+    "Station ID": 1262,
+    "Station Name": "Dargaville Volunteer Fire Brigade",
+    "Ycoord": 6022355,
+    "Xcoord": 1678435,
+    "Latitude": -35.94001222,
+    "Longitude": 173.8695985
+  },
+  {
+    "Station ID": 1481,
+    "Station Name": "Devonport Station",
+    "Ycoord": 5923370,
+    "Xcoord": 1760252,
+    "Latitude": -36.82196874,
+    "Longitude": 174.7968053
+  },
+  {
+    "Station ID": 3430,
+    "Station Name": "Diamond Harbour Volunteer Fire Brigade",
+    "Ycoord": 5169391,
+    "Xcoord": 1578262,
+    "Latitude": -43.62814654,
+    "Longitude": 172.7305352
+  },
+  {
+    "Station ID": 3839,
+    "Station Name": "Dipton Volunteer Fire Brigade",
+    "Ycoord": 4906751,
+    "Xcoord": 1240837,
+    "Latitude": -45.89891023,
+    "Longitude": 168.3698501
+  },
+  {
+    "Station ID": 3998,
+    "Station Name": "Drummond Voluntary Rural Fire Force",
+    "Ycoord": 4878055,
+    "Xcoord": 1225444,
+    "Latitude": -46.1480594,
+    "Longitude": 168.1496056
+  },
+  {
+    "Station ID": 3621,
+    "Station Name": "Dunedin City Station",
+    "Ycoord": 4917071,
+    "Xcoord": 1406734,
+    "Latitude": -45.87278191,
+    "Longitude": 170.5097362
+  },
+  {
+    "Station ID": 3444,
+    "Station Name": "Dunsandel Volunteer Fire Brigade",
+    "Ycoord": 5165640,
+    "Xcoord": 1534861,
+    "Latitude": -43.65938364,
+    "Longitude": 172.1921323
+  },
+  {
+    "Station ID": 3667,
+    "Station Name": "Dunstan Rural Fire Party",
+    "Ycoord": 4982988,
+    "Xcoord": 1315139,
+    "Latitude": -45.24888247,
+    "Longitude": 169.3699392
+  },
+  {
+    "Station ID": 3784,
+    "Station Name": "Duntroon Volunteer Fire Brigade",
+    "Ycoord": 5030607,
+    "Xcoord": 1416790,
+    "Latitude": -44.85440731,
+    "Longitude": 170.681313
+  },
+  {
+    "Station ID": 3437,
+    "Station Name": "Duvauchelle Voluntary Rural Fire Force",
+    "Ycoord": 5155870,
+    "Xcoord": 1594728,
+    "Latitude": -43.75018841,
+    "Longitude": 172.9345099
+  },
+  {
+    "Station ID": 1483,
+    "Station Name": "East Coast Bays Station",
+    "Ycoord": 5934035,
+    "Xcoord": 1755872,
+    "Latitude": -36.72660288,
+    "Longitude": 174.7455354
+  },
+  {
+    "Station ID": 3670,
+    "Station Name": "East Otago Voluntary Rural Fire Force",
+    "Ycoord": 4948119,
+    "Xcoord": 1418398,
+    "Latitude": -45.59673409,
+    "Longitude": 170.6715376
+  },
+  {
+    "Station ID": 2946,
+    "Station Name": "Eastbourne Volunteer Fire Brigade",
+    "Ycoord": 5427079,
+    "Xcoord": 1758823,
+    "Latitude": -41.29211382,
+    "Longitude": 174.8968164
+  },
+  {
+    "Station ID": 3841,
+    "Station Name": "Edendale Volunteer Fire Brigade",
+    "Ycoord": 4862431,
+    "Xcoord": 1275394,
+    "Latitude": -46.31389371,
+    "Longitude": 168.7837912
+  },
+  {
+    "Station ID": 1893,
+    "Station Name": "Edgecumbe Volunteer Fire Brigade",
+    "Ycoord": 5789484,
+    "Xcoord": 1936801,
+    "Latitude": -37.97980627,
+    "Longitude": 176.8343685
+  },
+  {
+    "Station ID": 2741,
+    "Station Name": "Eketahuna Volunteer Fire Brigade",
+    "Ycoord": 5497045,
+    "Xcoord": 1828655,
+    "Latitude": -40.64579583,
+    "Longitude": 175.7042136
+  },
+  {
+    "Station ID": 1427,
+    "Station Name": "Ellerslie Station",
+    "Ycoord": 5914761,
+    "Xcoord": 1760800,
+    "Latitude": -36.89944424,
+    "Longitude": 174.8047706
+  },
+  {
+    "Station ID": 2351,
+    "Station Name": "Eltham Volunteer Fire Brigade",
+    "Ycoord": 5634455,
+    "Xcoord": 1711760,
+    "Latitude": -39.4321981,
+    "Longitude": 174.2985695
+  },
+  {
+    "Station ID": 3582,
+    "Station Name": "Fairlie Volunteer Fire Brigade",
+    "Ycoord": 5115087,
+    "Xcoord": 1426195,
+    "Latitude": -44.09676281,
+    "Longitude": 170.828634
+  },
+  {
+    "Station ID": 2863,
+    "Station Name": "Featherston Volunteer Fire Brigade",
+    "Ycoord": 5445686,
+    "Xcoord": 1795283,
+    "Latitude": -41.11664688,
+    "Longitude": 175.3260039
+  },
+  {
+    "Station ID": 2428,
+    "Station Name": "Feilding Volunteer Fire Brigade",
+    "Ycoord": 5544452,
+    "Xcoord": 1819073,
+    "Latitude": -40.22173219,
+    "Longitude": 175.5746688
+  },
+  {
+    "Station ID": 2774,
+    "Station Name": "Flemington Voluntary Rural Fire Force",
+    "Ycoord": 5549833,
+    "Xcoord": 1893398,
+    "Latitude": -40.15063389,
+    "Longitude": 176.4444214
+  },
+  {
+    "Station ID": 3372,
+    "Station Name": "Fox Glacier Volunteer Fire Brigade",
+    "Ycoord": 5183303,
+    "Xcoord": 1358510,
+    "Latitude": -43.46420979,
+    "Longitude": 170.0147359
+  },
+  {
+    "Station ID": 2842,
+    "Station Name": "Foxton Beach Volunteer Fire Brigade",
+    "Ycoord": 5518121,
+    "Xcoord": 1789099,
+    "Latitude": -40.46607415,
+    "Longitude": 175.2304663
+  },
+  {
+    "Station ID": 2847,
+    "Station Name": "Foxton Volunteer Fire Brigade",
+    "Ycoord": 5517282,
+    "Xcoord": 1793540,
+    "Latitude": -40.47260427,
+    "Longitude": 175.2830658
+  },
+  {
+    "Station ID": 3777,
+    "Station Name": "Frankton Volunteer Fire Brigade",
+    "Ycoord": 5005369,
+    "Xcoord": 1264105,
+    "Latitude": -45.02548058,
+    "Longitude": 168.7363035
+  },
+  {
+    "Station ID": 3374,
+    "Station Name": "Franz Josef Fire Brigade (Auxiliary)",
+    "Ycoord": 5191982,
+    "Xcoord": 1371783,
+    "Latitude": -43.39031972,
+    "Longitude": 170.1822395
+  },
+  {
+    "Station ID": 3245,
+    "Station Name": "French Pass and Durville Island (Cissy Bay) VRFF",
+    "Ycoord": 5469069,
+    "Xcoord": 1670926,
+    "Latitude": -40.92641769,
+    "Longitude": 173.8423959
+  },
+  {
+    "Station ID": 3992,
+    "Station Name": "Garston Voluntary Rural Fire Force",
+    "Ycoord": 4956119,
+    "Xcoord": 1262595,
+    "Latitude": -45.46684012,
+    "Longitude": 168.6837776
+  },
+  {
+    "Station ID": 3584,
+    "Station Name": "Geraldine Volunteer Fire Brigade",
+    "Ycoord": 5115832,
+    "Xcoord": 1459426,
+    "Latitude": -44.09719392,
+    "Longitude": 171.2437737
+  },
+  {
+    "Station ID": 2681,
+    "Station Name": "Gisborne Station",
+    "Ycoord": 5708491,
+    "Xcoord": 2037411,
+    "Latitude": -38.66412188,
+    "Longitude": 178.0263081
+  },
+  {
+    "Station ID": 2678,
+    "Station Name": "Gisborne Voluntary Rural Fire Force",
+    "Ycoord": 5709006,
+    "Xcoord": 2033516,
+    "Latitude": -38.6614112,
+    "Longitude": 177.9813872
+  },
+  {
+    "Station ID": 1464,
+    "Station Name": "Glen Eden Station",
+    "Ycoord": 5913948,
+    "Xcoord": 1747141,
+    "Latitude": -36.90899958,
+    "Longitude": 174.6516847
+  },
+  {
+    "Station ID": 3589,
+    "Station Name": "Glenavy Volunteer Fire Brigade",
+    "Ycoord": 5024745,
+    "Xcoord": 1450142,
+    "Latitude": -44.9149376,
+    "Longitude": 171.1014191
+  },
+  {
+    "Station ID": 3795,
+    "Station Name": "Glenorchy Voluntary Rural Fire Force",
+    "Ycoord": 5023487,
+    "Xcoord": 1235643,
+    "Latitude": -44.84886995,
+    "Longitude": 168.3892067
+  },
+  {
+    "Station ID": 3506,
+    "Station Name": "Goose Bay Voluntary Rural Fire Force",
+    "Ycoord": 5297011,
+    "Xcoord": 1643261,
+    "Latitude": -42.47803673,
+    "Longitude": 173.5263156
+  },
+  {
+    "Station ID": 3843,
+    "Station Name": "Gore Volunteer Fire Brigade",
+    "Ycoord": 4887467,
+    "Xcoord": 1286477,
+    "Latitude": -46.09434988,
+    "Longitude": 168.9439726
+  },
+  {
+    "Station ID": 3435,
+    "Station Name": "Governors Bay Voluntary Rural Fire Force",
+    "Ycoord": 5169508,
+    "Xcoord": 1571471,
+    "Latitude": -43.62686367,
+    "Longitude": 172.6463636
+  },
+  {
+    "Station ID": 3433,
+    "Station Name": "Governors Bay Volunteer Fire Brigade",
+    "Ycoord": 5169501,
+    "Xcoord": 1571467,
+    "Latitude": -43.62692655,
+    "Longitude": 172.6463136
+  },
+  {
+    "Station ID": 3379,
+    "Station Name": "Granity Volunteer Fire Brigade",
+    "Ycoord": 5391011,
+    "Xcoord": 1504677,
+    "Latitude": -41.62692897,
+    "Longitude": 171.8556693
+  },
+  {
+    "Station ID": 1484,
+    "Station Name": "Greenhithe Volunteer Fire Brigade",
+    "Ycoord": 5928634,
+    "Xcoord": 1749069,
+    "Latitude": -36.77636385,
+    "Longitude": 174.6704369
+  },
+  {
+    "Station ID": 1875,
+    "Station Name": "Greerton Station",
+    "Ycoord": 5819084,
+    "Xcoord": 1875560,
+    "Latitude": -37.7340767,
+    "Longitude": 176.1269409
+  },
+  {
+    "Station ID": 1426,
+    "Station Name": "Grey Lynn Station",
+    "Ycoord": 5918741,
+    "Xcoord": 1755015,
+    "Latitude": -36.86455106,
+    "Longitude": 174.7390556
+  },
+  {
+    "Station ID": 3261,
+    "Station Name": "Greymouth Volunteer Fire Brigade",
+    "Ycoord": 5297813,
+    "Xcoord": 1452382,
+    "Latitude": -42.45795786,
+    "Longitude": 171.2046483
+  },
+  {
+    "Station ID": 2864,
+    "Station Name": "Greytown Volunteer Fire Brigade",
+    "Ycoord": 5449689,
+    "Xcoord": 1806905,
+    "Latitude": -41.07774401,
+    "Longitude": 175.4629672
+  },
+  {
+    "Station ID": 3383,
+    "Station Name": "Haast Voluntary Rural Fire Force",
+    "Ycoord": 5133785,
+    "Xcoord": 1281931,
+    "Latitude": -43.88041355,
+    "Longitude": 169.0408397
+  },
+  {
+    "Station ID": 1662,
+    "Station Name": "Hahei Volunteer Fire Brigade",
+    "Ycoord": 5919104,
+    "Xcoord": 1849879,
+    "Latitude": -36.84096046,
+    "Longitude": 175.8022429
+  },
+  {
+    "Station ID": 3556,
+    "Station Name": "Hakataramea Rural Fire Party (Hunter Hills VRFF)",
+    "Ycoord": 5068804,
+    "Xcoord": 1415202,
+    "Latitude": -44.5104171,
+    "Longitude": 170.675022
+  },
+  {
+    "Station ID": 2432,
+    "Station Name": "Halcombe Volunteer Fire Brigade",
+    "Ycoord": 5553426,
+    "Xcoord": 1812501,
+    "Latitude": -40.14264951,
+    "Longitude": 175.4945395
+  },
+  {
+    "Station ID": 1641,
+    "Station Name": "Hamilton Station",
+    "Ycoord": 5814913,
+    "Xcoord": 1800993,
+    "Latitude": -37.79105165,
+    "Longitude": 175.2826708
+  },
+  {
+    "Station ID": 3792,
+    "Station Name": "Hampden Voluntary Rural Fire Force",
+    "Ycoord": 4978705,
+    "Xcoord": 1428845,
+    "Latitude": -45.32427583,
+    "Longitude": 170.8160373
+  },
+  {
+    "Station ID": 3567,
+    "Station Name": "Hanmer Springs Volunteer Fire Brigade",
+    "Ycoord": 5292124,
+    "Xcoord": 1586025,
+    "Latitude": -42.52313027,
+    "Longitude": 172.8298503
+  },
+  {
+    "Station ID": 3513,
+    "Station Name": "Hanmer Voluntary Rural Fire Force",
+    "Ycoord": 5292535,
+    "Xcoord": 1585366,
+    "Latitude": -42.51941669,
+    "Longitude": 172.8218376
+  },
+  {
+    "Station ID": 3426,
+    "Station Name": "Harewood Station",
+    "Ycoord": 5184809,
+    "Xcoord": 1564885,
+    "Latitude": -43.48881255,
+    "Longitude": 172.56572
+  },
+  {
+    "Station ID": 3375,
+    "Station Name": "Harihari Volunteer Fire Brigade",
+    "Ycoord": 5219773,
+    "Xcoord": 1401275,
+    "Latitude": -43.14869062,
+    "Longitude": 170.5560517
+  },
+  {
+    "Station ID": 2656,
+    "Station Name": "Hastings Station",
+    "Ycoord": 5606219,
+    "Xcoord": 1928675,
+    "Latitude": -39.63069385,
+    "Longitude": 176.8293807
+  },
+  {
+    "Station ID": 2652,
+    "Station Name": "Haumoana Volunteer Fire Brigade",
+    "Ycoord": 5608571,
+    "Xcoord": 1938879,
+    "Latitude": -39.60557489,
+    "Longitude": 176.9468032
+  },
+  {
+    "Station ID": 2653,
+    "Station Name": "Havelock North Volunteer Fire Brigade",
+    "Ycoord": 5602012,
+    "Xcoord": 1932789,
+    "Latitude": -39.66692459,
+    "Longitude": 176.8793264
+  },
+  {
+    "Station ID": 3227,
+    "Station Name": "Havelock Volunteer Fire Brigade",
+    "Ycoord": 5429969,
+    "Xcoord": 1664165,
+    "Latitude": -41.27916083,
+    "Longitude": 173.7661838
+  },
+  {
+    "Station ID": 3449,
+    "Station Name": "Hawarden Volunteer Fire Brigade",
+    "Ycoord": 5247653,
+    "Xcoord": 1570846,
+    "Latitude": -42.92318428,
+    "Longitude": 172.6427576
+  },
+  {
+    "Station ID": 2355,
+    "Station Name": "Hawera Volunteer Fire Brigade",
+    "Ycoord": 5616397,
+    "Xcoord": 1710305,
+    "Latitude": -39.59505737,
+    "Longitude": 174.2846604
+  },
+  {
+    "Station ID": 3995,
+    "Station Name": "Hedgehope Voluntary Rural Fire Force",
+    "Ycoord": 4873263,
+    "Xcoord": 1256511,
+    "Latitude": -46.20740559,
+    "Longitude": 168.5471505
+  },
+  {
+    "Station ID": 1489,
+    "Station Name": "Helensville Volunteer Fire Brigade",
+    "Ycoord": 5939820,
+    "Xcoord": 1729705,
+    "Latitude": -36.67840515,
+    "Longitude": 174.451617
+  },
+  {
+    "Station ID": 1465,
+    "Station Name": "Henderson Station",
+    "Ycoord": 5916727,
+    "Xcoord": 1745398,
+    "Latitude": -36.88422859,
+    "Longitude": 174.6315932
+  },
+  {
+    "Station ID": 2773,
+    "Station Name": "Herbertville Voluntary Rural Fire Force",
+    "Ycoord": 5511574,
+    "Xcoord": 1901484,
+    "Latitude": -40.49179786,
+    "Longitude": 176.5572115
+  },
+  {
+    "Station ID": 2650,
+    "Station Name": "Heretaunga Voluntary Rural Fire Force",
+    "Ycoord": 5604504,
+    "Xcoord": 1929806,
+    "Latitude": -39.64567697,
+    "Longitude": 176.8433846
+  },
+  {
+    "Station ID": 3852,
+    "Station Name": "Heriot Volunteer Fire Brigade",
+    "Ycoord": 4916477,
+    "Xcoord": 1310333,
+    "Latitude": -45.8443335,
+    "Longitude": 169.2694592
+  },
+  {
+    "Station ID": 2690,
+    "Station Name": "Hicks Bay Voluntary Rural Fire Force",
+    "Ycoord": 5826079,
+    "Xcoord": 2067170,
+    "Latitude": -37.5937527,
+    "Longitude": 178.2900125
+  },
+  {
+    "Station ID": 1258,
+    "Station Name": "Hihi Voluntary Rural Fire Force",
+    "Ycoord": 6129615,
+    "Xcoord": 1649290,
+    "Latitude": -34.97482432,
+    "Longitude": 173.5399878
+  },
+  {
+    "Station ID": 1264,
+    "Station Name": "Hikurangi Volunteer Fire Brigade",
+    "Ycoord": 6059526,
+    "Xcoord": 1716553,
+    "Latitude": -35.60114779,
+    "Longitude": 174.2867174
+  },
+  {
+    "Station ID": 2438,
+    "Station Name": "Himatangi Beach Volunteer Fire Brigade",
+    "Ycoord": 5528836,
+    "Xcoord": 1789762,
+    "Latitude": -40.36946366,
+    "Longitude": 175.2350852
+  },
+  {
+    "Station ID": 3493,
+    "Station Name": "Hinds Voluntary Rural Fire Force",
+    "Ycoord": 5126789,
+    "Xcoord": 1485372,
+    "Latitude": -44.00309683,
+    "Longitude": 171.5701856
+  },
+  {
+    "Station ID": 3255,
+    "Station Name": "Hira Rural Fire Party",
+    "Ycoord": 5437439,
+    "Xcoord": 1633207,
+    "Latitude": -41.21374034,
+    "Longitude": 173.3961249
+  },
+  {
+    "Station ID": 3371,
+    "Station Name": "Hokitika Volunteer Fire Brigade",
+    "Ycoord": 5268127,
+    "Xcoord": 1434196,
+    "Latitude": -42.72145878,
+    "Longitude": 170.9749601
+  },
+  {
+    "Station ID": 3573,
+    "Station Name": "Hororata Fire Brigade (Auxiliary)",
+    "Ycoord": 5178768,
+    "Xcoord": 1516018,
+    "Latitude": -43.53930651,
+    "Longitude": 171.9605102
+  },
+  {
+    "Station ID": 2897,
+    "Station Name": "Horowhenua Voluntary Rural Fire Force",
+    "Ycoord": 5500389,
+    "Xcoord": 1790998,
+    "Latitude": -40.6252627,
+    "Longitude": 175.2582058
+  },
+  {
+    "Station ID": 1432,
+    "Station Name": "Howick Station",
+    "Ycoord": 5914628,
+    "Xcoord": 1770143,
+    "Latitude": -36.89900376,
+    "Longitude": 174.909612
+  },
+  {
+    "Station ID": 1472,
+    "Station Name": "Huia Volunteer Fire Brigade",
+    "Ycoord": 5903826,
+    "Xcoord": 1739172,
+    "Latitude": -37.00142012,
+    "Longitude": 174.564127
+  },
+  {
+    "Station ID": 2479,
+    "Station Name": "Hunterville Volunteer Fire Brigade",
+    "Ycoord": 5576109,
+    "Xcoord": 1819641,
+    "Latitude": -39.93665306,
+    "Longitude": 175.5705941
+  },
+  {
+    "Station ID": 1632,
+    "Station Name": "Huntly Volunteer Fire Brigade",
+    "Ycoord": 5840831,
+    "Xcoord": 1790886,
+    "Latitude": -37.55977714,
+    "Longitude": 175.1611785
+  },
+  {
+    "Station ID": 1447,
+    "Station Name": "Hunua Voluntary Rural Fire Force",
+    "Ycoord": 5894391,
+    "Xcoord": 1784128,
+    "Latitude": -37.07868424,
+    "Longitude": 175.0714236
+  },
+  {
+    "Station ID": 3509,
+    "Station Name": "Hurunui Voluntary Rural Fire Force",
+    "Ycoord": 5242687,
+    "Xcoord": 1574770,
+    "Latitude": -42.96804329,
+    "Longitude": 172.6906152
+  },
+  {
+    "Station ID": 2940,
+    "Station Name": "Hutt City Station",
+    "Ycoord": 5436002,
+    "Xcoord": 1758999,
+    "Latitude": -41.21174612,
+    "Longitude": 174.8965922
+  },
+  {
+    "Station ID": 3269,
+    "Station Name": "Ikamatua Volunteer Fire Brigade",
+    "Ycoord": 5319253,
+    "Xcoord": 1491531,
+    "Latitude": -42.27138732,
+    "Longitude": 171.684673
+  },
+  {
+    "Station ID": 3294,
+    "Station Name": "Inangahua Voluntary Rural Fire Force",
+    "Ycoord": 5365550,
+    "Xcoord": 1513049,
+    "Latitude": -41.85717631,
+    "Longitude": 171.9524354
+  },
+  {
+    "Station ID": 2364,
+    "Station Name": "Inglewood Volunteer Fire Brigade",
+    "Ycoord": 5665262,
+    "Xcoord": 1704304,
+    "Latitude": -39.15559614,
+    "Longitude": 174.2071793
+  },
+  {
+    "Station ID": 3821,
+    "Station Name": "Invercargill Station",
+    "Ycoord": 4849863,
+    "Xcoord": 1243126,
+    "Latitude": -46.41043092,
+    "Longitude": 168.356443
+  },
+  {
+    "Station ID": 2928,
+    "Station Name": "Johnsonville Station",
+    "Ycoord": 5435060,
+    "Xcoord": 1751575,
+    "Latitude": -41.22165142,
+    "Longitude": 174.8083135
+  },
+  {
+    "Station ID": 1266,
+    "Station Name": "Kaeo Volunteer Fire Brigade",
+    "Ycoord": 6115593,
+    "Xcoord": 1670931,
+    "Latitude": -35.09996884,
+    "Longitude": 173.7782527
+  },
+  {
+    "Station ID": 3440,
+    "Station Name": "Kaiapoi Volunteer Fire Brigade",
+    "Ycoord": 5196621,
+    "Xcoord": 1572026,
+    "Latitude": -43.3827558,
+    "Longitude": 172.6546376
+  },
+  {
+    "Station ID": 1442,
+    "Station Name": "Kaiaua Voluntary Rural Fire Force",
+    "Ycoord": 5890890,
+    "Xcoord": 1804124,
+    "Latitude": -37.10607701,
+    "Longitude": 175.2971724
+  },
+  {
+    "Station ID": 1245,
+    "Station Name": "Kaikohe Voluntary Rural Fire Force",
+    "Ycoord": 6083166,
+    "Xcoord": 1673307,
+    "Latitude": -35.3921664,
+    "Longitude": 173.8072124
+  },
+  {
+    "Station ID": 1265,
+    "Station Name": "Kaikohe Volunteer Fire Brigade",
+    "Ycoord": 6081524,
+    "Xcoord": 1672611,
+    "Latitude": -35.40702157,
+    "Longitude": 173.7996953
+  },
+  {
+    "Station ID": 3575,
+    "Station Name": "Kaikoura Volunteer Fire Brigade",
+    "Ycoord": 5304958,
+    "Xcoord": 1656281,
+    "Latitude": -42.4056346,
+    "Longitude": 173.6839309
+  },
+  {
+    "Station ID": 1861,
+    "Station Name": "Kaingaroa Volunteer Fire Brigade",
+    "Ycoord": 5742868,
+    "Xcoord": 1911287,
+    "Latitude": -38.40823358,
+    "Longitude": 176.5648447
+  },
+  {
+    "Station ID": 1256,
+    "Station Name": "Kaitaia Voluntary Rural Fire Force",
+    "Ycoord": 6116846,
+    "Xcoord": 1623557,
+    "Latitude": -35.09089255,
+    "Longitude": 173.2584413
+  },
+  {
+    "Station ID": 1272,
+    "Station Name": "Kaitaia Volunteer Fire Brigade",
+    "Ycoord": 6114625,
+    "Xcoord": 1623770,
+    "Latitude": -35.11091474,
+    "Longitude": 173.2608418
+  },
+  {
+    "Station ID": 3652,
+    "Station Name": "Kaitangata Volunteer Fire Brigade",
+    "Ycoord": 4869256,
+    "Xcoord": 1356999,
+    "Latitude": -46.28672812,
+    "Longitude": 169.845351
+  },
+  {
+    "Station ID": 3237,
+    "Station Name": "Kaiteriteri Fire Brigade (Auxiliary)",
+    "Ycoord": 5457135,
+    "Xcoord": 1601282,
+    "Latitude": -41.03699812,
+    "Longitude": 173.0152509
+  },
+  {
+    "Station ID": 1278,
+    "Station Name": "Kaiwaka Volunteer Fire Brigade",
+    "Ycoord": 5997356,
+    "Xcoord": 1729866,
+    "Latitude": -36.15984445,
+    "Longitude": 174.443786
+  },
+  {
+    "Station ID": 3648,
+    "Station Name": "Kaka Point Fire Brigade (Auxiliary)",
+    "Ycoord": 4857963,
+    "Xcoord": 1352564,
+    "Latitude": -46.38660071,
+    "Longitude": 169.7819135
+  },
+  {
+    "Station ID": 3791,
+    "Station Name": "Kakanui Voluntary Rural Fire Force",
+    "Ycoord": 4994739,
+    "Xcoord": 1434926,
+    "Latitude": -45.18149975,
+    "Longitude": 170.8989053
+  },
+  {
+    "Station ID": 1219,
+    "Station Name": "Kamo Volunteer Fire Brigade",
+    "Ycoord": 6050644,
+    "Xcoord": 1717598,
+    "Latitude": -35.68108785,
+    "Longitude": 174.2995473
+  },
+  {
+    "Station ID": 2352,
+    "Station Name": "Kaponga Volunteer Fire Brigade",
+    "Ycoord": 5634957,
+    "Xcoord": 1698806,
+    "Latitude": -39.42925851,
+    "Longitude": 174.1480094
+  },
+  {
+    "Station ID": 3380,
+    "Station Name": "Karamea Volunteer Fire Brigade",
+    "Ycoord": 5433189,
+    "Xcoord": 1526412,
+    "Latitude": -41.24935481,
+    "Longitude": 172.1216957
+  },
+  {
+    "Station ID": 1473,
+    "Station Name": "Karekare Voluntary Rural Fire Force",
+    "Ycoord": 5905333,
+    "Xcoord": 1733611,
+    "Latitude": -36.9886471,
+    "Longitude": 174.5013809
+  },
+  {
+    "Station ID": 1252,
+    "Station Name": "Karikari Voluntary Rural Fire Force",
+    "Ycoord": 6141425,
+    "Xcoord": 1634816,
+    "Latitude": -34.86893089,
+    "Longitude": 173.3809322
+  },
+  {
+    "Station ID": 2926,
+    "Station Name": "Karori Station",
+    "Ycoord": 5428611,
+    "Xcoord": 1746636,
+    "Latitude": -41.28062601,
+    "Longitude": 174.7509671
+  },
+  {
+    "Station ID": 1876,
+    "Station Name": "Katikati Volunteer Fire Brigade",
+    "Ycoord": 5838940,
+    "Xcoord": 1857795,
+    "Latitude": -37.560513,
+    "Longitude": 175.9185915
+  },
+  {
+    "Station ID": 1478,
+    "Station Name": "Kaukapakapa Voluntary Rural Fire Force",
+    "Ycoord": 5946419,
+    "Xcoord": 1733760,
+    "Latitude": -36.61837397,
+    "Longitude": 174.4958346
+  },
+  {
+    "Station ID": 1444,
+    "Station Name": "Kawakawa Bay Volunteer Fire Brigade",
+    "Ycoord": 5908487,
+    "Xcoord": 1793137,
+    "Latitude": -36.94989564,
+    "Longitude": 175.1690959
+  },
+  {
+    "Station ID": 1274,
+    "Station Name": "Kawakawa Volunteer Fire Brigade",
+    "Ycoord": 6084312,
+    "Xcoord": 1696615,
+    "Latitude": -35.37984754,
+    "Longitude": 174.0636952
+  },
+  {
+    "Station ID": 1419,
+    "Station Name": "Kawau Voluntary Rural Fire Force",
+    "Ycoord": 5966733,
+    "Xcoord": 1763111,
+    "Latitude": -36.43076153,
+    "Longitude": 174.819636
+  },
+  {
+    "Station ID": 1891,
+    "Station Name": "Kawerau Station",
+    "Ycoord": 5778476,
+    "Xcoord": 1925446,
+    "Latitude": -38.0829522,
+    "Longitude": 176.7103468
+  },
+  {
+    "Station ID": 1650,
+    "Station Name": "Kawhia Volunteer Fire Brigade",
+    "Ycoord": 5785572,
+    "Xcoord": 1759753,
+    "Latitude": -38.06351186,
+    "Longitude": 174.8210638
+  },
+  {
+    "Station ID": 3242,
+    "Station Name": "Kenepuru Head Voluntary Rural Fire Force",
+    "Ycoord": 5443125,
+    "Xcoord": 1687885,
+    "Latitude": -41.15843971,
+    "Longitude": 174.0474893
+  },
+  {
+    "Station ID": 1681,
+    "Station Name": "Kennedy Bay Voluntary Rural Fire Force",
+    "Ycoord": 5937325,
+    "Xcoord": 1827740,
+    "Latitude": -36.68245711,
+    "Longitude": 175.5487626
+  },
+  {
+    "Station ID": 2666,
+    "Station Name": "Kereru Voluntary Rural Fire Force",
+    "Ycoord": 5611885,
+    "Xcoord": 1894061,
+    "Latitude": -39.5923221,
+    "Longitude": 176.4242969
+  },
+  {
+    "Station ID": 1267,
+    "Station Name": "Kerikeri Volunteer Fire Brigade",
+    "Ycoord": 6101233,
+    "Xcoord": 1686393,
+    "Latitude": -35.22823044,
+    "Longitude": 173.9493857
+  },
+  {
+    "Station ID": 2924,
+    "Station Name": "Kilbirnie Station",
+    "Ycoord": 5424309,
+    "Xcoord": 1750966,
+    "Latitude": -41.31856048,
+    "Longitude": 174.8037136
+  },
+  {
+    "Station ID": 2433,
+    "Station Name": "Kimbolton Volunteer Fire Brigade",
+    "Ycoord": 5561917,
+    "Xcoord": 1837118,
+    "Latitude": -40.05965646,
+    "Longitude": 175.7800982
+  },
+  {
+    "Station ID": 3993,
+    "Station Name": "Kingston Voluntary Rural Fire Force",
+    "Ycoord": 4970613,
+    "Xcoord": 1264867,
+    "Latitude": -45.3378338,
+    "Longitude": 168.7226072
+  },
+  {
+    "Station ID": 3822,
+    "Station Name": "Kingswell Station",
+    "Ycoord": 4845917,
+    "Xcoord": 1244526,
+    "Latitude": -46.44656508,
+    "Longitude": 168.3715972
+  },
+  {
+    "Station ID": 1822,
+    "Station Name": "Kinloch Fire Brigade (Auxiliary)",
+    "Ycoord": 5716613,
+    "Xcoord": 1854106,
+    "Latitude": -38.6626238,
+    "Longitude": 175.92043
+  },
+  {
+    "Station ID": 3572,
+    "Station Name": "Kirwee Volunteer Fire Brigade",
+    "Ycoord": 5183466,
+    "Xcoord": 1536360,
+    "Latitude": -43.49902029,
+    "Longitude": 172.2128151
+  },
+  {
+    "Station ID": 2373,
+    "Station Name": "Kohi Voluntary Rural Fire Force",
+    "Ycoord": 5617531,
+    "Xcoord": 1708914,
+    "Latitude": -39.58502,
+    "Longitude": 174.2682777
+  },
+  {
+    "Station ID": 1268,
+    "Station Name": "Kohukohu Volunteer Fire Brigade",
+    "Ycoord": 6086892,
+    "Xcoord": 1649530,
+    "Latitude": -35.36003668,
+    "Longitude": 173.5451819
+  },
+  {
+    "Station ID": 2396,
+    "Station Name": "Koitiata Voluntary Rural Fire Force",
+    "Ycoord": 5562204,
+    "Xcoord": 1782533,
+    "Latitude": -40.07066122,
+    "Longitude": 175.1405184
+  },
+  {
+    "Station ID": 3391,
+    "Station Name": "Kokatahi & Kowhitirangi Voluntary Rural Fire Force",
+    "Ycoord": 5255243,
+    "Xcoord": 1440294,
+    "Latitude": -42.83870981,
+    "Longitude": 171.0457495
+  },
+  {
+    "Station ID": 2778,
+    "Station Name": "Koromiko Voluntary Rural Fire Force",
+    "Ycoord": 5421781,
+    "Xcoord": 1679760,
+    "Latitude": -41.35151634,
+    "Longitude": 173.953453
+  },
+  {
+    "Station ID": 2647,
+    "Station Name": "Kotemaori Voluntary Rural Fire Force",
+    "Ycoord": 5668179,
+    "Xcoord": 1948155,
+    "Latitude": -39.06607701,
+    "Longitude": 177.0237085
+  },
+  {
+    "Station ID": 1684,
+    "Station Name": "Kuaotunu Voluntary Rural Fire Force",
+    "Ycoord": 5932470,
+    "Xcoord": 1843807,
+    "Latitude": -36.72219158,
+    "Longitude": 175.7299451
+  },
+  {
+    "Station ID": 3265,
+    "Station Name": "Kumara Volunteer Fire Brigade",
+    "Ycoord": 5278630,
+    "Xcoord": 1451232,
+    "Latitude": -42.63040991,
+    "Longitude": 171.1856738
+  },
+  {
+    "Station ID": 1486,
+    "Station Name": "Kumeu Volunteer Fire Brigade",
+    "Ycoord": 5929275,
+    "Xcoord": 1737775,
+    "Latitude": -36.7722971,
+    "Longitude": 174.5438063
+  },
+  {
+    "Station ID": 3655,
+    "Station Name": "Kurow Volunteer Fire Brigade",
+    "Ycoord": 5043534,
+    "Xcoord": 1399669,
+    "Latitude": -44.73354593,
+    "Longitude": 170.4699227
+  },
+  {
+    "Station ID": 1470,
+    "Station Name": "Laingholm Volunteer Fire Brigade",
+    "Ycoord": 5907939,
+    "Xcoord": 1745010,
+    "Latitude": -36.96347606,
+    "Longitude": 174.628925
+  },
+  {
+    "Station ID": 3501,
+    "Station Name": "Lake Clearwater Voluntary Rural Fire Force",
+    "Ycoord": 5169534,
+    "Xcoord": 1442251,
+    "Latitude": -43.61045997,
+    "Longitude": 171.0451769
+  },
+  {
+    "Station ID": 2852,
+    "Station Name": "Lake Ferry Voluntary Rural Fire Force",
+    "Ycoord": 5415684,
+    "Xcoord": 1779412,
+    "Latitude": -41.39037182,
+    "Longitude": 175.1459197
+  },
+  {
+    "Station ID": 3782,
+    "Station Name": "Lake Hawea Volunteer Fire Brigade",
+    "Ycoord": 5053226,
+    "Xcoord": 1303006,
+    "Latitude": -44.61294805,
+    "Longitude": 169.2569199
+  },
+  {
+    "Station ID": 1865,
+    "Station Name": "Lake Okareka Voluntary Rural Fire Force",
+    "Ycoord": 5769391,
+    "Xcoord": 1893212,
+    "Latitude": -38.1757169,
+    "Longitude": 176.3471973
+  },
+  {
+    "Station ID": 3251,
+    "Station Name": "Lake Rotoiti Voluntary Rural Fire Force",
+    "Ycoord": 5372268,
+    "Xcoord": 1587417,
+    "Latitude": -41.80134568,
+    "Longitude": 172.8485322
+  },
+  {
+    "Station ID": 1866,
+    "Station Name": "Lake Tarawera Voluntary Rural Fire Force",
+    "Ycoord": 5767521,
+    "Xcoord": 1897321,
+    "Latitude": -38.19119511,
+    "Longitude": 176.3948102
+  },
+  {
+    "Station ID": 1829,
+    "Station Name": "Lake Taupo Voluntary Rural Fire Force",
+    "Ycoord": 5715102,
+    "Xcoord": 1869419,
+    "Latitude": -38.67169672,
+    "Longitude": 176.096776
+  },
+  {
+    "Station ID": 3583,
+    "Station Name": "Lake Tekapo Volunteer Fire Brigade",
+    "Ycoord": 5124335,
+    "Xcoord": 1397915,
+    "Latitude": -44.0063219,
+    "Longitude": 170.4791787
+  },
+  {
+    "Station ID": 3488,
+    "Station Name": "Lauriston Voluntary Rural Fire Force",
+    "Ycoord": 5157180,
+    "Xcoord": 1501705,
+    "Latitude": -43.73189499,
+    "Longitude": 171.7794608
+  },
+  {
+    "Station ID": 3758,
+    "Station Name": "Lawrence Volunteer Fire Brigade",
+    "Ycoord": 4910301,
+    "Xcoord": 1343196,
+    "Latitude": -45.91285609,
+    "Longitude": 169.6886341
+  },
+  {
+    "Station ID": 3443,
+    "Station Name": "Leeston Volunteer Fire Brigade",
+    "Ycoord": 5154242,
+    "Xcoord": 1543642,
+    "Latitude": -43.76272091,
+    "Longitude": 172.2998328
+  },
+  {
+    "Station ID": 1494,
+    "Station Name": "Leigh Volunteer Fire Brigade",
+    "Ycoord": 5982166,
+    "Xcoord": 1761961,
+    "Latitude": -36.29189091,
+    "Longitude": 174.8035999
+  },
+  {
+    "Station ID": 2834,
+    "Station Name": "Levin Volunteer Fire Brigade",
+    "Ycoord": 5500843,
+    "Xcoord": 1793252,
+    "Latitude": -40.62065191,
+    "Longitude": 175.2846959
+  },
+  {
+    "Station ID": 3441,
+    "Station Name": "Lincoln Volunteer Fire Brigade",
+    "Ycoord": 5168042,
+    "Xcoord": 1558565,
+    "Latitude": -43.63945631,
+    "Longitude": 172.486281
+  },
+  {
+    "Station ID": 3447,
+    "Station Name": "Little River Volunteer Fire Brigade",
+    "Ycoord": 5154335,
+    "Xcoord": 1583491,
+    "Latitude": -43.76384413,
+    "Longitude": 172.7948901
+  },
+  {
+    "Station ID": 3381,
+    "Station Name": "Little Wanganui Fire Brigade (Auxiliary)",
+    "Ycoord": 5419011,
+    "Xcoord": 1522725,
+    "Latitude": -41.37670596,
+    "Longitude": 172.0758933
+  },
+  {
+    "Station ID": 3623,
+    "Station Name": "Lookout Point Station",
+    "Ycoord": 4914326,
+    "Xcoord": 1403154,
+    "Latitude": -45.89644987,
+    "Longitude": 170.4625285
+  },
+  {
+    "Station ID": 3783,
+    "Station Name": "Luggate Volunteer Fire Brigade",
+    "Ycoord": 5038400,
+    "Xcoord": 1304640,
+    "Latitude": -44.7468081,
+    "Longitude": 169.2689197
+  },
+  {
+    "Station ID": 3854,
+    "Station Name": "Lumsden Volunteer Fire Brigade",
+    "Ycoord": 4924654,
+    "Xcoord": 1245475,
+    "Latitude": -45.7406881,
+    "Longitude": 168.4425991
+  },
+  {
+    "Station ID": 3429,
+    "Station Name": "Lyttelton Volunteer Fire Brigade",
+    "Ycoord": 5172168,
+    "Xcoord": 1577354,
+    "Latitude": -43.60311533,
+    "Longitude": 172.7193963
+  },
+  {
+    "Station ID": 3661,
+    "Station Name": "Macraes Voluntary Rural Fire Force",
+    "Ycoord": 4971432,
+    "Xcoord": 1398830,
+    "Latitude": -45.38171506,
+    "Longitude": 170.4304407
+  },
+  {
+    "Station ID": 2697,
+    "Station Name": "Mahia Voluntary Rural Fire Force",
+    "Ycoord": 5663329,
+    "Xcoord": 2021798,
+    "Latitude": -39.07719973,
+    "Longitude": 177.8751969
+  },
+  {
+    "Station ID": 1498,
+    "Station Name": "Mahurangi East Volunteer Fire Brigade (Auxiliary)",
+    "Ycoord": 5967711,
+    "Xcoord": 1754775,
+    "Latitude": -36.4233295,
+    "Longitude": 174.7264852
+  },
+  {
+    "Station ID": 3799,
+    "Station Name": "Makarora Voluntary Rural Fire Force",
+    "Ycoord": 5095624,
+    "Xcoord": 1299078,
+    "Latitude": -44.23044512,
+    "Longitude": 169.2321001
+  },
+  {
+    "Station ID": 1874,
+    "Station Name": "Maketu Volunteer Fire Brigade",
+    "Ycoord": 5815203,
+    "Xcoord": 1904130,
+    "Latitude": -37.75995365,
+    "Longitude": 176.4522502
+  },
+  {
+    "Station ID": 1884,
+    "Station Name": "Mamaku Volunteer Fire Brigade",
+    "Ycoord": 5779248,
+    "Xcoord": 1870013,
+    "Latitude": -38.09425526,
+    "Longitude": 176.0790019
+  },
+  {
+    "Station ID": 2357,
+    "Station Name": "Manaia Volunteer Fire Brigade",
+    "Ycoord": 5621571,
+    "Xcoord": 1696633,
+    "Latitude": -39.55009749,
+    "Longitude": 174.1247077
+  },
+  {
+    "Station ID": 3974,
+    "Station Name": "Manapouri Volunteer Fire Brigade",
+    "Ycoord": 4940349,
+    "Xcoord": 1179959,
+    "Latitude": -45.56341621,
+    "Longitude": 167.6173931
+  },
+  {
+    "Station ID": 2496,
+    "Station Name": "Manawatu Voluntary Rural Fire Force",
+    "Ycoord": 5543304,
+    "Xcoord": 1818525,
+    "Latitude": -40.23220766,
+    "Longitude": 175.568625
+  },
+  {
+    "Station ID": 1888,
+    "Station Name": "Mangakino Volunteer Fire Brigade",
+    "Ycoord": 5749312,
+    "Xcoord": 1842300,
+    "Latitude": -38.37159257,
+    "Longitude": 175.7735698
+  },
+  {
+    "Station ID": 1748,
+    "Station Name": "Mangatangi Volunteer Fire Brigade",
+    "Ycoord": 5880594,
+    "Xcoord": 1795288,
+    "Latitude": -37.20070305,
+    "Longitude": 175.2004892
+  },
+  {
+    "Station ID": 2478,
+    "Station Name": "Mangaweka Volunteer Fire Brigade",
+    "Ycoord": 5589829,
+    "Xcoord": 1838750,
+    "Latitude": -39.80801099,
+    "Longitude": 175.7889899
+  },
+  {
+    "Station ID": 1280,
+    "Station Name": "Mangawhai Volunteer Fire Brigade (Auxiliary)",
+    "Ycoord": 6004433,
+    "Xcoord": 1742930,
+    "Latitude": -36.09422556,
+    "Longitude": 174.5876917
+  },
+  {
+    "Station ID": 1435,
+    "Station Name": "Mangere Station",
+    "Ycoord": 5907310,
+    "Xcoord": 1759996,
+    "Latitude": -36.96671513,
+    "Longitude": 174.7973269
+  },
+  {
+    "Station ID": 1273,
+    "Station Name": "Mangonui Volunteer Fire Brigade",
+    "Ycoord": 6127765,
+    "Xcoord": 1647633,
+    "Latitude": -34.9915853,
+    "Longitude": 173.5219414
+  },
+  {
+    "Station ID": 1491,
+    "Station Name": "Manly Volunteer Fire Brigade (Auxiliary)",
+    "Ycoord": 5944741,
+    "Xcoord": 1757940,
+    "Latitude": -36.62979343,
+    "Longitude": 174.7664764
+  },
+  {
+    "Station ID": 2326,
+    "Station Name": "Manunui Volunteer Fire Brigade",
+    "Ycoord": 5692933,
+    "Xcoord": 1802032,
+    "Latitude": -38.88925532,
+    "Longitude": 175.3293914
+  },
+  {
+    "Station ID": 1430,
+    "Station Name": "Manurewa Station",
+    "Ycoord": 5900703,
+    "Xcoord": 1768975,
+    "Latitude": -37.02467139,
+    "Longitude": 174.8996246
+  },
+  {
+    "Station ID": 2682,
+    "Station Name": "Manutuke Volunteer Fire Brigade",
+    "Ycoord": 5707454,
+    "Xcoord": 2027121,
+    "Latitude": -38.6784496,
+    "Longitude": 177.9091107
+  },
+  {
+    "Station ID": 3231,
+    "Station Name": "Mapua Volunteer Fire Brigade",
+    "Ycoord": 5432854,
+    "Xcoord": 1608404,
+    "Latitude": -41.25567892,
+    "Longitude": 173.1003143
+  },
+  {
+    "Station ID": 2665,
+    "Station Name": "Maraekakaho Voluntary Rural Fire Force",
+    "Ycoord": 5604825,
+    "Xcoord": 1910565,
+    "Latitude": -39.6499897,
+    "Longitude": 176.619443
+  },
+  {
+    "Station ID": 2662,
+    "Station Name": "Maraetotara Voluntary Rural Fire Force",
+    "Ycoord": 5590277,
+    "Xcoord": 1936391,
+    "Latitude": -39.7710023,
+    "Longitude": 176.9272106
+  },
+  {
+    "Station ID": 1749,
+    "Station Name": "Maramarua Voluntary Rural Fire Force",
+    "Ycoord": 5874763,
+    "Xcoord": 1798106,
+    "Latitude": -37.25263023,
+    "Longitude": 175.2337696
+  },
+  {
+    "Station ID": 2865,
+    "Station Name": "Martinborough Volunteer Fire Brigade",
+    "Ycoord": 5434062,
+    "Xcoord": 1806287,
+    "Latitude": -41.21853925,
+    "Longitude": 175.4608723
+  },
+  {
+    "Station ID": 2481,
+    "Station Name": "Marton Volunteer Fire Brigade",
+    "Ycoord": 5560855,
+    "Xcoord": 1802842,
+    "Latitude": -40.07816137,
+    "Longitude": 175.3789153
+  },
+  {
+    "Station ID": 2961,
+    "Station Name": "Masterton Station",
+    "Ycoord": 5463852,
+    "Xcoord": 1824353,
+    "Latitude": -40.94567441,
+    "Longitude": 175.6653149
+  },
+  {
+    "Station ID": 1870,
+    "Station Name": "Matakana Island Voluntary Rural Fire Force",
+    "Ycoord": 5835047,
+    "Xcoord": 1871508,
+    "Latitude": -37.59161391,
+    "Longitude": 176.0750837
+  },
+  {
+    "Station ID": 1492,
+    "Station Name": "Matakana Volunteer Fire Brigade",
+    "Ycoord": 5976961,
+    "Xcoord": 1756336,
+    "Latitude": -36.33972301,
+    "Longitude": 174.74203
+  },
+  {
+    "Station ID": 1638,
+    "Station Name": "Matamata Volunteer Fire Brigade",
+    "Ycoord": 5811906,
+    "Xcoord": 1843824,
+    "Latitude": -37.80769946,
+    "Longitude": 175.7696362
+  },
+  {
+    "Station ID": 2671,
+    "Station Name": "Matapiro Voluntary Rural Fire Force",
+    "Ycoord": 5613063,
+    "Xcoord": 1905378,
+    "Latitude": -39.57777235,
+    "Longitude": 176.5553058
+  },
+  {
+    "Station ID": 1683,
+    "Station Name": "Matarangi Voluntary Rural Fire Force",
+    "Ycoord": 5931374,
+    "Xcoord": 1837682,
+    "Latitude": -36.73361392,
+    "Longitude": 175.6617713
+  },
+  {
+    "Station ID": 1894,
+    "Station Name": "Matata Volunteer Fire Brigade",
+    "Ycoord": 5799873,
+    "Xcoord": 1930470,
+    "Latitude": -37.88869817,
+    "Longitude": 176.7576701
+  },
+  {
+    "Station ID": 3845,
+    "Station Name": "Mataura Volunteer Fire Brigade",
+    "Ycoord": 4876184,
+    "Xcoord": 1281010,
+    "Latitude": -46.19310487,
+    "Longitude": 168.8658436
+  },
+  {
+    "Station ID": 2684,
+    "Station Name": "Matawai Volunteer Fire Brigade",
+    "Ycoord": 5744686,
+    "Xcoord": 1996277,
+    "Latitude": -38.35830295,
+    "Longitude": 177.5346045
+  },
+  {
+    "Station ID": 1221,
+    "Station Name": "Maungakaramea Voluntary Rural Fire Force",
+    "Ycoord": 6032579,
+    "Xcoord": 1708887,
+    "Latitude": -35.84493176,
+    "Longitude": 174.2057592
+  },
+  {
+    "Station ID": 1277,
+    "Station Name": "Maungaturoto Volunteer Fire Brigade",
+    "Ycoord": 6003422,
+    "Xcoord": 1722491,
+    "Latitude": -36.10613087,
+    "Longitude": 174.3608714
+  },
+  {
+    "Station ID": 2853,
+    "Station Name": "Mauriceville Voluntary Rural Fire Force",
+    "Ycoord": 5482391,
+    "Xcoord": 1827856,
+    "Latitude": -40.7778836,
+    "Longitude": 175.700099
+  },
+  {
+    "Station ID": 3494,
+    "Station Name": "Mayfield Voluntary Rural Fire Force",
+    "Ycoord": 5146710,
+    "Xcoord": 1472905,
+    "Latitude": -43.82175227,
+    "Longitude": 171.4194884
+  },
+  {
+    "Station ID": 1868,
+    "Station Name": "Mayor View Volunteer Fire Brigade",
+    "Ycoord": 5851609,
+    "Xcoord": 1862184,
+    "Latitude": -37.44523397,
+    "Longitude": 175.9637053
+  },
+  {
+    "Station ID": 1750,
+    "Station Name": "Mercer Volunteer Fire Brigade",
+    "Ycoord": 5872089,
+    "Xcoord": 1781474,
+    "Latitude": -37.28010727,
+    "Longitude": 175.0469998
+  },
+  {
+    "Station ID": 3463,
+    "Station Name": "Methven Volunteer Fire Brigade",
+    "Ycoord": 5168179,
+    "Xcoord": 1490769,
+    "Latitude": -43.63135708,
+    "Longitude": 171.6459328
+  },
+  {
+    "Station ID": 3638,
+    "Station Name": "Middlemarch Volunteer Fire Brigade",
+    "Ycoord": 4956667,
+    "Xcoord": 1375163,
+    "Latitude": -45.50725371,
+    "Longitude": 170.1217562
+  },
+  {
+    "Station ID": 3996,
+    "Station Name": "Milford Sound Voluntary Rural Fire Force",
+    "Ycoord": 5040575,
+    "Xcoord": 1198179,
+    "Latitude": -44.67554871,
+    "Longitude": 167.9303424
+  },
+  {
+    "Station ID": 3643,
+    "Station Name": "Millers Flat Volunteer Fire Brigade",
+    "Ycoord": 4937308,
+    "Xcoord": 1320602,
+    "Latitude": -45.66144682,
+    "Longitude": 169.4134651
+  },
+  {
+    "Station ID": 2420,
+    "Station Name": "Milson Station",
+    "Ycoord": 5531740,
+    "Xcoord": 1822600,
+    "Latitude": -40.33521038,
+    "Longitude": 175.6204952
+  },
+  {
+    "Station ID": 3653,
+    "Station Name": "Milton Volunteer Fire Brigade",
+    "Ycoord": 4888095,
+    "Xcoord": 1364988,
+    "Latitude": -46.1202298,
+    "Longitude": 169.95828
+  },
+  {
+    "Station ID": 3264,
+    "Station Name": "Moana Volunteer Fire Brigade",
+    "Ycoord": 5285140,
+    "Xcoord": 1475261,
+    "Latitude": -42.57606926,
+    "Longitude": 171.4800387
+  },
+  {
+    "Station ID": 2369,
+    "Station Name": "Mokau Rural Fire Party",
+    "Ycoord": 5715469,
+    "Xcoord": 1740866,
+    "Latitude": -38.69818921,
+    "Longitude": 174.6198766
+  },
+  {
+    "Station ID": 1636,
+    "Station Name": "Morrinsville Volunteer Fire Brigade",
+    "Ycoord": 5829148,
+    "Xcoord": 1822618,
+    "Latitude": -37.65785955,
+    "Longitude": 175.5237009
+  },
+  {
+    "Station ID": 3631,
+    "Station Name": "Mosgiel Station",
+    "Ycoord": 4916298,
+    "Xcoord": 1394595,
+    "Latitude": -45.87621763,
+    "Longitude": 170.3531572
+  },
+  {
+    "Station ID": 3956,
+    "Station Name": "Mossburn Volunteer Fire Brigade",
+    "Ycoord": 4931627,
+    "Xcoord": 1229088,
+    "Latitude": -45.66955674,
+    "Longitude": 168.2379902
+  },
+  {
+    "Station ID": 3236,
+    "Station Name": "Motueka Volunteer Fire Brigade",
+    "Ycoord": 5449184,
+    "Xcoord": 1600972,
+    "Latitude": -41.10862215,
+    "Longitude": 173.0115753
+  },
+  {
+    "Station ID": 3497,
+    "Station Name": "Motunau Voluntary Rural Fire Force",
+    "Ycoord": 5233852,
+    "Xcoord": 1606127,
+    "Latitude": -43.04799663,
+    "Longitude": 173.075222
+  },
+  {
+    "Station ID": 1872,
+    "Station Name": "Mount Maunganui Station",
+    "Ycoord": 5826573,
+    "Xcoord": 1883044,
+    "Latitude": -37.66439943,
+    "Longitude": 176.2088362
+  },
+  {
+    "Station ID": 1462,
+    "Station Name": "Mount Roskill Station",
+    "Ycoord": 5913061,
+    "Xcoord": 1754795,
+    "Latitude": -36.91576646,
+    "Longitude": 174.7377485
+  },
+  {
+    "Station ID": 3496,
+    "Station Name": "Mount Somers Voluntary Rural Fire Force",
+    "Ycoord": 5159560,
+    "Xcoord": 1471324,
+    "Latitude": -43.70582395,
+    "Longitude": 171.4029159
+  },
+  {
+    "Station ID": 1423,
+    "Station Name": "Mount Wellington Station",
+    "Ycoord": 5914876,
+    "Xcoord": 1765199,
+    "Latitude": -36.89764804,
+    "Longitude": 174.8540954
+  },
+  {
+    "Station ID": 3238,
+    "Station Name": "Murchison Volunteer Fire Brigade",
+    "Ycoord": 5371615,
+    "Xcoord": 1543933,
+    "Latitude": -41.80534417,
+    "Longitude": 172.3250601
+  },
+  {
+    "Station ID": 1487,
+    "Station Name": "Muriwai Volunteer Fire Brigade",
+    "Ycoord": 5923640,
+    "Xcoord": 1727828,
+    "Latitude": -36.82447325,
+    "Longitude": 174.4333265
+  },
+  {
+    "Station ID": 1889,
+    "Station Name": "Murupara Volunteer Fire Brigade",
+    "Ycoord": 5737265,
+    "Xcoord": 1923060,
+    "Latitude": -38.45444826,
+    "Longitude": 176.7019886
+  },
+  {
+    "Station ID": 2651,
+    "Station Name": "Napier Station",
+    "Ycoord": 5620801,
+    "Xcoord": 1934755,
+    "Latitude": -39.49725237,
+    "Longitude": 176.8927193
+  },
+  {
+    "Station ID": 3781,
+    "Station Name": "Naseby Volunteer Fire Brigade",
+    "Ycoord": 5010520,
+    "Xcoord": 1375139,
+    "Latitude": -45.02309514,
+    "Longitude": 170.1458347
+  },
+  {
+    "Station ID": 2328,
+    "Station Name": "National Park Volunteer Fire Brigade",
+    "Ycoord": 5661106,
+    "Xcoord": 1806984,
+    "Latitude": -39.17465526,
+    "Longitude": 175.3961032
+  },
+  {
+    "Station ID": 3221,
+    "Station Name": "Nelson Station",
+    "Ycoord": 5430822,
+    "Xcoord": 1623178,
+    "Latitude": -41.27369397,
+    "Longitude": 173.276742
+  },
+  {
+    "Station ID": 3427,
+    "Station Name": "New Brighton Volunteer Fire Brigade",
+    "Ycoord": 5182848,
+    "Xcoord": 1577769,
+    "Latitude": -43.50696392,
+    "Longitude": 172.724976
+  },
+  {
+    "Station ID": 2361,
+    "Station Name": "New Plymouth Station",
+    "Ycoord": 5676205,
+    "Xcoord": 1693171,
+    "Latitude": -39.05826746,
+    "Longitude": 174.0768509
+  },
+  {
+    "Station ID": 2362,
+    "Station Name": "New Plymouth West Volunteer Fire Brigade",
+    "Ycoord": 5675413,
+    "Xcoord": 1688807,
+    "Latitude": -39.065858,
+    "Longitude": 174.0265238
+  },
+  {
+    "Station ID": 2929,
+    "Station Name": "Newlands Volunteer Fire Brigade",
+    "Ycoord": 5434772,
+    "Xcoord": 1752765,
+    "Latitude": -41.22402063,
+    "Longitude": 174.8225755
+  },
+  {
+    "Station ID": 2922,
+    "Station Name": "Newtown Station",
+    "Ycoord": 5424387,
+    "Xcoord": 1749062,
+    "Latitude": -41.31821236,
+    "Longitude": 174.7809566
+  },
+  {
+    "Station ID": 3266,
+    "Station Name": "Ngahere Volunteer Fire Brigade",
+    "Ycoord": 5305233,
+    "Xcoord": 1471814,
+    "Latitude": -42.394616,
+    "Longitude": 171.4425463
+  },
+  {
+    "Station ID": 2368,
+    "Station Name": "Ngamotu Voluntary Rural Fire Force",
+    "Ycoord": 5674537,
+    "Xcoord": 1691227,
+    "Latitude": -39.07350096,
+    "Longitude": 174.0546098
+  },
+  {
+    "Station ID": 1633,
+    "Station Name": "Ngaruawahia Volunteer Fire Brigade",
+    "Ycoord": 5828474,
+    "Xcoord": 1789564,
+    "Latitude": -37.67135134,
+    "Longitude": 175.1494235
+  },
+  {
+    "Station ID": 1652,
+    "Station Name": "Ngatea Volunteer Fire Brigade",
+    "Ycoord": 5871703,
+    "Xcoord": 1821286,
+    "Latitude": -37.27496949,
+    "Longitude": 175.495834
+  },
+  {
+    "Station ID": 3253,
+    "Station Name": "Ngatimoti Voluntary Rural Fire Force",
+    "Ycoord": 5438851,
+    "Xcoord": 1589504,
+    "Latitude": -41.20163428,
+    "Longitude": 172.8748151
+  },
+  {
+    "Station ID": 2851,
+    "Station Name": "Ngawi Voluntary Rural Fire Force",
+    "Ycoord": 5393436,
+    "Xcoord": 1786215,
+    "Latitude": -41.58907204,
+    "Longitude": 175.2341036
+  },
+  {
+    "Station ID": 1882,
+    "Station Name": "Ngongotaha Volunteer Fire Brigade",
+    "Ycoord": 5779950,
+    "Xcoord": 1881660,
+    "Latitude": -38.08438511,
+    "Longitude": 176.2113495
+  },
+  {
+    "Station ID": 1279,
+    "Station Name": "Ngunguru Volunteer Fire Brigade",
+    "Ycoord": 6056464,
+    "Xcoord": 1736304,
+    "Latitude": -35.62622177,
+    "Longitude": 174.5052183
+  },
+  {
+    "Station ID": 3957,
+    "Station Name": "Nightcaps Volunteer Fire Brigade",
+    "Ycoord": 4897010,
+    "Xcoord": 1215063,
+    "Latitude": -45.97232852,
+    "Longitude": 168.0309904
+  },
+  {
+    "Station ID": 3201,
+    "Station Name": "Nopera Voluntary Rural Fire Force",
+    "Ycoord": 5440310,
+    "Xcoord": 1678805,
+    "Latitude": -41.18472695,
+    "Longitude": 173.9396428
+  },
+  {
+    "Station ID": 2768,
+    "Station Name": "Norsewood Volunteer Fire Brigade",
+    "Ycoord": 5558727,
+    "Xcoord": 1874271,
+    "Latitude": -40.07708796,
+    "Longitude": 176.2164467
+  },
+  {
+    "Station ID": 3205,
+    "Station Name": "Northbank Voluntary Rural Fire Force",
+    "Ycoord": 5401736,
+    "Xcoord": 1645020,
+    "Latitude": -41.53475554,
+    "Longitude": 173.5396878
+  },
+  {
+    "Station ID": 2695,
+    "Station Name": "Nuhaka Volunteer Fire Brigade",
+    "Ycoord": 5667677,
+    "Xcoord": 2010581,
+    "Latitude": -39.0434971,
+    "Longitude": 177.7433506
+  },
+  {
+    "Station ID": 2363,
+    "Station Name": "Oakura Volunteer Fire Brigade",
+    "Ycoord": 5670016,
+    "Xcoord": 1682668,
+    "Latitude": -39.11508774,
+    "Longitude": 173.9562289
+  },
+  {
+    "Station ID": 3772,
+    "Station Name": "Oamaru Volunteer Fire Brigade",
+    "Ycoord": 5004871,
+    "Xcoord": 1440539,
+    "Latitude": -45.09164331,
+    "Longitude": 170.973535
+  },
+  {
+    "Station ID": 3975,
+    "Station Name": "Oban Volunteer Fire Brigade",
+    "Ycoord": 4794572,
+    "Xcoord": 1228823,
+    "Latitude": -46.8985292,
+    "Longitude": 168.1265589
+  },
+  {
+    "Station ID": 3959,
+    "Station Name": "Ohai Volunteer Fire Brigade",
+    "Ycoord": 4901141,
+    "Xcoord": 1209319,
+    "Latitude": -45.93204833,
+    "Longitude": 167.9604981
+  },
+  {
+    "Station ID": 2375,
+    "Station Name": "Ohakune Volunteer Fire Brigade",
+    "Ycoord": 5634243,
+    "Xcoord": 1806624,
+    "Latitude": -39.41658849,
+    "Longitude": 175.400187
+  },
+  {
+    "Station ID": 1897,
+    "Station Name": "Ohope Volunteer Fire Brigade",
+    "Ycoord": 5789115,
+    "Xcoord": 1957546,
+    "Latitude": -37.97519408,
+    "Longitude": 177.0701943
+  },
+  {
+    "Station ID": 2324,
+    "Station Name": "Ohura Voluntary Rural Fire Force",
+    "Ycoord": 5699020,
+    "Xcoord": 1772082,
+    "Latitude": -38.84081227,
+    "Longitude": 174.9827591
+  },
+  {
+    "Station ID": 2356,
+    "Station Name": "Okaiawa Volunteer Fire Brigade",
+    "Ycoord": 5623918,
+    "Xcoord": 1703076,
+    "Latitude": -39.52820468,
+    "Longitude": 174.1993186
+  },
+  {
+    "Station ID": 1269,
+    "Station Name": "Okaihau Volunteer Fire Brigade",
+    "Ycoord": 6091108,
+    "Xcoord": 1670106,
+    "Latitude": -35.32079097,
+    "Longitude": 173.7712867
+  },
+  {
+    "Station ID": 2365,
+    "Station Name": "Okato Volunteer Fire Brigade",
+    "Ycoord": 5661583,
+    "Xcoord": 1676027,
+    "Latitude": -39.19167426,
+    "Longitude": 173.880367
+  },
+  {
+    "Station ID": 3246,
+    "Station Name": "Okiwi Voluntary Rural Fire Force",
+    "Ycoord": 5448610,
+    "Xcoord": 1655359,
+    "Latitude": -41.11190681,
+    "Longitude": 173.659353
+  },
+  {
+    "Station ID": 3644,
+    "Station Name": "Omakau Volunteer Fire Brigade",
+    "Ycoord": 5000423,
+    "Xcoord": 1332322,
+    "Latitude": -45.09896263,
+    "Longitude": 169.5978574
+  },
+  {
+    "Station ID": 2771,
+    "Station Name": "Omakere Voluntary Rural Fire Force",
+    "Ycoord": 5559746,
+    "Xcoord": 1920252,
+    "Latitude": -40.05171454,
+    "Longitude": 176.7541594
+  },
+  {
+    "Station ID": 1271,
+    "Station Name": "Omapere Volunteer Fire Brigade",
+    "Ycoord": 6068964,
+    "Xcoord": 1635295,
+    "Latitude": -35.52229103,
+    "Longitude": 173.3892774
+  },
+  {
+    "Station ID": 3793,
+    "Station Name": "Omarama Voluntary Rural Fire Force",
+    "Ycoord": 5069285,
+    "Xcoord": 1358796,
+    "Latitude": -44.48945353,
+    "Longitude": 169.966469
+  },
+  {
+    "Station ID": 3756,
+    "Station Name": "Omarama Volunteer Fire Brigade",
+    "Ycoord": 5069358,
+    "Xcoord": 1358864,
+    "Latitude": -44.48881995,
+    "Longitude": 169.967357
+  },
+  {
+    "Station ID": 1877,
+    "Station Name": "Omokoroa Volunteer Fire Brigade",
+    "Ycoord": 5828363,
+    "Xcoord": 1866993,
+    "Latitude": -37.6530966,
+    "Longitude": 176.0264532
+  },
+  {
+    "Station ID": 1422,
+    "Station Name": "Onehunga Station",
+    "Ycoord": 5913155,
+    "Xcoord": 1758917,
+    "Latitude": -36.9142337,
+    "Longitude": 174.7839828
+  },
+  {
+    "Station ID": 1679,
+    "Station Name": "Onemana Voluntary Rural Fire Force",
+    "Ycoord": 5884181,
+    "Xcoord": 1855232,
+    "Latitude": -37.15394651,
+    "Longitude": 175.8740241
+  },
+  {
+    "Station ID": 1220,
+    "Station Name": "Onerahi Volunteer Fire Brigade",
+    "Ycoord": 6041203,
+    "Xcoord": 1723522,
+    "Latitude": -35.76546272,
+    "Longitude": 174.3664484
+  },
+  {
+    "Station ID": 1440,
+    "Station Name": "Oneroa Volunteer Fire Brigade",
+    "Ycoord": 5927270,
+    "Xcoord": 1779334,
+    "Latitude": -36.78340838,
+    "Longitude": 175.0097279
+  },
+  {
+    "Station ID": 1441,
+    "Station Name": "Onetangi Volunteer Fire Brigade",
+    "Ycoord": 5926039,
+    "Xcoord": 1785285,
+    "Latitude": -36.79335306,
+    "Longitude": 175.0766787
+  },
+  {
+    "Station ID": 1752,
+    "Station Name": "Onewhero Voluntary Rural Fire Force",
+    "Ycoord": 5866860,
+    "Xcoord": 1769562,
+    "Latitude": -37.32946191,
+    "Longitude": 174.913899
+  },
+  {
+    "Station ID": 2764,
+    "Station Name": "Ongaonga Fire Brigade",
+    "Ycoord": 5576412,
+    "Xcoord": 1891893,
+    "Latitude": -39.91211511,
+    "Longitude": 176.4148278
+  },
+  {
+    "Station ID": 1896,
+    "Station Name": "Opotiki Volunteer Fire Brigade",
+    "Ycoord": 5784779,
+    "Xcoord": 1976349,
+    "Latitude": -38.00657016,
+    "Longitude": 177.2859753
+  },
+  {
+    "Station ID": 2353,
+    "Station Name": "Opunake Volunteer Fire Brigade",
+    "Ycoord": 5632521,
+    "Xcoord": 1673941,
+    "Latitude": -39.45369836,
+    "Longitude": 173.8594127
+  },
+  {
+    "Station ID": 3835,
+    "Station Name": "Orepuki Volunteer Fire Brigade",
+    "Ycoord": 4861169,
+    "Xcoord": 1194572,
+    "Latitude": -46.28176057,
+    "Longitude": 167.7369855
+  },
+  {
+    "Station ID": 1445,
+    "Station Name": "Orere Point Voluntary Rural Fire Force",
+    "Ycoord": 5907222,
+    "Xcoord": 1799635,
+    "Latitude": -36.95993518,
+    "Longitude": 175.2423583
+  },
+  {
+    "Station ID": 2769,
+    "Station Name": "Ormondville Volunteer Fire Brigade",
+    "Ycoord": 5555020,
+    "Xcoord": 1878308,
+    "Latitude": -40.109109,
+    "Longitude": 176.2653123
+  },
+  {
+    "Station ID": 3669,
+    "Station Name": "Otago Rural Fire Centre",
+    "Ycoord": 4988677,
+    "Xcoord": 1312240,
+    "Latitude": -45.1965981,
+    "Longitude": 169.3363604
+  },
+  {
+    "Station ID": 1431,
+    "Station Name": "Otahuhu Station",
+    "Ycoord": 5910244,
+    "Xcoord": 1763931,
+    "Latitude": -36.93960304,
+    "Longitude": 174.840874
+  },
+  {
+    "Station ID": 2841,
+    "Station Name": "Otaki Volunteer Fire Brigade",
+    "Ycoord": 5486423,
+    "Xcoord": 1780813,
+    "Latitude": -40.7532821,
+    "Longitude": 175.1418921
+  },
+  {
+    "Station ID": 2757,
+    "Station Name": "Otane Volunteer Fire Brigade",
+    "Ycoord": 5577550,
+    "Xcoord": 1910190,
+    "Latitude": -39.8953858,
+    "Longitude": 176.6279494
+  },
+  {
+    "Station ID": 1433,
+    "Station Name": "Otara Station",
+    "Ycoord": 5908536,
+    "Xcoord": 1768379,
+    "Latitude": -36.95420687,
+    "Longitude": 174.8911792
+  },
+  {
+    "Station ID": 3958,
+    "Station Name": "Otautau Volunteer Fire Brigade",
+    "Ycoord": 4877863,
+    "Xcoord": 1213551,
+    "Latitude": -46.14315147,
+    "Longitude": 167.996025
+  },
+  {
+    "Station ID": 3757,
+    "Station Name": "Otematata Volunteer Fire Brigade",
+    "Ycoord": 5056824,
+    "Xcoord": 1377284,
+    "Latitude": -44.60743761,
+    "Longitude": 170.1933125
+  },
+  {
+    "Station ID": 1646,
+    "Station Name": "Otorohanga Volunteer Fire Brigade",
+    "Ycoord": 5771307,
+    "Xcoord": 1793580,
+    "Latitude": -38.18537805,
+    "Longitude": 175.2102968
+  },
+  {
+    "Station ID": 3632,
+    "Station Name": "Outram Volunteer Fire Brigade",
+    "Ycoord": 4917694,
+    "Xcoord": 1385029,
+    "Latitude": -45.86074712,
+    "Longitude": 170.2306565
+  },
+  {
+    "Station ID": 3654,
+    "Station Name": "Owaka Volunteer Fire Brigade",
+    "Ycoord": 4850352,
+    "Xcoord": 1343353,
+    "Latitude": -46.45154915,
+    "Longitude": 169.6581415
+  },
+  {
+    "Station ID": 2327,
+    "Station Name": "Owhango Volunteer Fire Brigade",
+    "Ycoord": 5680708,
+    "Xcoord": 1805941,
+    "Latitude": -38.99841775,
+    "Longitude": 175.3781021
+  },
+  {
+    "Station ID": 3579,
+    "Station Name": "Oxford Volunteer Fire Brigade",
+    "Ycoord": 5205892,
+    "Xcoord": 1534666,
+    "Latitude": -43.29696009,
+    "Longitude": 172.1945431
+  },
+  {
+    "Station ID": 2836,
+    "Station Name": "Paekakariki Volunteer Fire Brigade",
+    "Ycoord": 5461014,
+    "Xcoord": 1764439,
+    "Latitude": -40.98548071,
+    "Longitude": 174.9547577
+  },
+  {
+    "Station ID": 1651,
+    "Station Name": "Paeroa Volunteer Fire Brigade",
+    "Ycoord": 5859799,
+    "Xcoord": 1836438,
+    "Latitude": -37.37842965,
+    "Longitude": 175.6703592
+  },
+  {
+    "Station ID": 2745,
+    "Station Name": "Pahiatua Volunteer Fire Brigade",
+    "Ycoord": 5518304,
+    "Xcoord": 1840934,
+    "Latitude": -40.45102073,
+    "Longitude": 175.8411656
+  },
+  {
+    "Station ID": 1275,
+    "Station Name": "Paihia Volunteer Fire Brigade",
+    "Ycoord": 6095191,
+    "Xcoord": 1699174,
+    "Latitude": -35.28151871,
+    "Longitude": 174.0905461
+  },
+  {
+    "Station ID": 2421,
+    "Station Name": "Palmerston North Station",
+    "Ycoord": 5528936,
+    "Xcoord": 1820997,
+    "Latitude": -40.36087205,
+    "Longitude": 175.6026132
+  },
+  {
+    "Station ID": 2484,
+    "Station Name": "Palmerston North Voluntary Rural Fire Force",
+    "Ycoord": 5529324,
+    "Xcoord": 1821652,
+    "Latitude": -40.35720633,
+    "Longitude": 175.6101846
+  },
+  {
+    "Station ID": 3774,
+    "Station Name": "Palmerston Volunteer Fire Brigade",
+    "Ycoord": 4960600,
+    "Xcoord": 1421297,
+    "Latitude": -45.48523287,
+    "Longitude": 170.7132353
+  },
+  {
+    "Station ID": 1685,
+    "Station Name": "Papa Aroha Voluntary Rural Fire Force",
+    "Ycoord": 5935514,
+    "Xcoord": 1817370,
+    "Latitude": -36.70119533,
+    "Longitude": 175.4333176
+  },
+  {
+    "Station ID": 1438,
+    "Station Name": "Papakura Station",
+    "Ycoord": 5897015,
+    "Xcoord": 1772460,
+    "Latitude": -37.05726379,
+    "Longitude": 174.9396283
+  },
+  {
+    "Station ID": 1873,
+    "Station Name": "Papamoa Volunteer Fire Brigade",
+    "Ycoord": 5821168,
+    "Xcoord": 1892292,
+    "Latitude": -37.71013778,
+    "Longitude": 176.3156881
+  },
+  {
+    "Station ID": 1281,
+    "Station Name": "Paparoa Voluntary Rural Fire Force",
+    "Ycoord": 6003401,
+    "Xcoord": 1710453,
+    "Latitude": -36.10776449,
+    "Longitude": 174.2271618
+  },
+  {
+    "Station ID": 1434,
+    "Station Name": "Papatoetoe Station",
+    "Ycoord": 5904944,
+    "Xcoord": 1766564,
+    "Latitude": -36.98689241,
+    "Longitude": 174.8715961
+  },
+  {
+    "Station ID": 3797,
+    "Station Name": "Papatowai Voluntary Rural Fire Force",
+    "Ycoord": 4837614,
+    "Xcoord": 1329376,
+    "Latitude": -46.56050927,
+    "Longitude": 169.4690762
+  },
+  {
+    "Station ID": 2837,
+    "Station Name": "Paraparaumu Station",
+    "Ycoord": 5469777,
+    "Xcoord": 1768364,
+    "Latitude": -40.90578851,
+    "Longitude": 174.999008
+  },
+  {
+    "Station ID": 1425,
+    "Station Name": "Parnell Station",
+    "Ycoord": 5920383,
+    "Xcoord": 1759074,
+    "Latitude": -36.84908133,
+    "Longitude": 174.7842281
+  },
+  {
+    "Station ID": 2358,
+    "Station Name": "Patea Volunteer Fire Brigade",
+    "Ycoord": 5598109,
+    "Xcoord": 1726356,
+    "Latitude": -39.7575665,
+    "Longitude": 174.4750433
+  },
+  {
+    "Station ID": 2670,
+    "Station Name": "Patoka Voluntary Rural Fire Force",
+    "Ycoord": 5639159,
+    "Xcoord": 1910962,
+    "Latitude": -39.3410935,
+    "Longitude": 176.6080444
+  },
+  {
+    "Station ID": 1756,
+    "Station Name": "Patumahoe Volunteer Fire Brigade",
+    "Ycoord": 5882653,
+    "Xcoord": 1762225,
+    "Latitude": -37.18848643,
+    "Longitude": 174.8276813
+  },
+  {
+    "Station ID": 2683,
+    "Station Name": "Patutahi Volunteer Fire Brigade",
+    "Ycoord": 5713612,
+    "Xcoord": 2025577,
+    "Latitude": -38.62389958,
+    "Longitude": 177.8876575
+  },
+  {
+    "Station ID": 1664,
+    "Station Name": "Pauanui Volunteer Fire Brigade",
+    "Ycoord": 5898572,
+    "Xcoord": 1854475,
+    "Latitude": -37.02459053,
+    "Longitude": 175.8606321
+  },
+  {
+    "Station ID": 3552,
+    "Station Name": "Peel Forest Rural Fire Party",
+    "Ycoord": 5136254,
+    "Xcoord": 1460419,
+    "Latitude": -43.91359945,
+    "Longitude": 171.2615511
+  },
+  {
+    "Station ID": 3489,
+    "Station Name": "Pendarves Voluntary Rural Fire Force",
+    "Ycoord": 5140144,
+    "Xcoord": 1518222,
+    "Latitude": -43.88726565,
+    "Longitude": 171.9819156
+  },
+  {
+    "Station ID": 3230,
+    "Station Name": "Picton Volunteer Fire Brigade",
+    "Ycoord": 5428360,
+    "Xcoord": 1684264,
+    "Latitude": -41.29180499,
+    "Longitude": 174.0063743
+  },
+  {
+    "Station ID": 1476,
+    "Station Name": "Piha Fire Brigade",
+    "Ycoord": 5909208,
+    "Xcoord": 1731272,
+    "Latitude": -36.95405709,
+    "Longitude": 174.4744318
+  },
+  {
+    "Station ID": 3519,
+    "Station Name": "Pines Beach Voluntary Rural Fire Force",
+    "Ycoord": 5197238,
+    "Xcoord": 1575770,
+    "Latitude": -43.37733033,
+    "Longitude": 172.7008861
+  },
+  {
+    "Station ID": 1649,
+    "Station Name": "Piopio Volunteer Fire Brigade",
+    "Ycoord": 5740382,
+    "Xcoord": 1775800,
+    "Latitude": -38.46755975,
+    "Longitude": 175.0151064
+  },
+  {
+    "Station ID": 1658,
+    "Station Name": "Pirongia Voluntary Rural Fire Force",
+    "Ycoord": 5792946,
+    "Xcoord": 1793229,
+    "Latitude": -37.99057073,
+    "Longitude": 175.2004395
+  },
+  {
+    "Station ID": 3585,
+    "Station Name": "Pleasant Point Volunteer Fire Brigade",
+    "Ycoord": 5097582,
+    "Xcoord": 1450774,
+    "Latitude": -44.25970315,
+    "Longitude": 171.1305543
+  },
+  {
+    "Station ID": 2935,
+    "Station Name": "Plimmerton Volunteer Fire Brigade",
+    "Ycoord": 5450382,
+    "Xcoord": 1756500,
+    "Latitude": -41.08276641,
+    "Longitude": 174.8631297
+  },
+  {
+    "Station ID": 2744,
+    "Station Name": "Pongaroa Volunteer Fire Brigade",
+    "Ycoord": 5507104,
+    "Xcoord": 1870375,
+    "Latitude": -40.54271654,
+    "Longitude": 176.1926357
+  },
+  {
+    "Station ID": 2759,
+    "Station Name": "Porangahau Volunteer Fire Brigade",
+    "Ycoord": 5532444,
+    "Xcoord": 1906964,
+    "Latitude": -40.3021446,
+    "Longitude": 176.6116961
+  },
+  {
+    "Station ID": 2931,
+    "Station Name": "Porirua Station",
+    "Ycoord": 5444231,
+    "Xcoord": 1755029,
+    "Latitude": -41.13842805,
+    "Longitude": 174.847178
+  },
+  {
+    "Station ID": 3627,
+    "Station Name": "Port Chalmers Volunteer Fire Brigade",
+    "Ycoord": 4923795,
+    "Xcoord": 1415241,
+    "Latitude": -45.81464976,
+    "Longitude": 170.6218314
+  },
+  {
+    "Station ID": 3434,
+    "Station Name": "Port Levy Fire Party",
+    "Ycoord": 5167200,
+    "Xcoord": 1586791,
+    "Latitude": -43.64807468,
+    "Longitude": 172.8362038
+  },
+  {
+    "Station ID": 1753,
+    "Station Name": "Port Waikato Fire Brigade (Auxiliary)",
+    "Ycoord": 5860366,
+    "Xcoord": 1752712,
+    "Latitude": -37.39089479,
+    "Longitude": 174.7251301
+  },
+  {
+    "Station ID": 1215,
+    "Station Name": "Portland Volunteer Fire Brigade",
+    "Ycoord": 6037318,
+    "Xcoord": 1720006,
+    "Latitude": -35.80091707,
+    "Longitude": 174.328145
+  },
+  {
+    "Station ID": 3629,
+    "Station Name": "Portobello Volunteer Fire Brigade",
+    "Ycoord": 4921011,
+    "Xcoord": 1417588,
+    "Latitude": -45.84031099,
+    "Longitude": 170.650962
+  },
+  {
+    "Station ID": 1474,
+    "Station Name": "Puhoi Voluntary Rural Fire Force",
+    "Ycoord": 5958263,
+    "Xcoord": 1748369,
+    "Latitude": -36.50948154,
+    "Longitude": 174.6568663
+  },
+  {
+    "Station ID": 1878,
+    "Station Name": "Pukehina Volunteer Fire Brigade",
+    "Ycoord": 5811693,
+    "Xcoord": 1910634,
+    "Latitude": -37.78934552,
+    "Longitude": 176.5274532
+  },
+  {
+    "Station ID": 1755,
+    "Station Name": "Pukekohe Volunteer Fire Brigade",
+    "Ycoord": 5880759,
+    "Xcoord": 1768436,
+    "Latitude": -37.20444989,
+    "Longitude": 174.8980494
+  },
+  {
+    "Station ID": 1254,
+    "Station Name": "Pukenui Voluntary Rural Fire Force",
+    "Ycoord": 6146345,
+    "Xcoord": 1611647,
+    "Latitude": -34.82509394,
+    "Longitude": 173.1273669
+  },
+  {
+    "Station ID": 3844,
+    "Station Name": "Pukerau Volunteer Fire Brigade",
+    "Ycoord": 4887782,
+    "Xcoord": 1298351,
+    "Latitude": -46.09686506,
+    "Longitude": 169.097417
+  },
+  {
+    "Station ID": 1643,
+    "Station Name": "Pukete Station",
+    "Ycoord": 5819392,
+    "Xcoord": 1797490,
+    "Latitude": -37.75147618,
+    "Longitude": 175.2416968
+  },
+  {
+    "Station ID": 2674,
+    "Station Name": "Puketitiri Voluntary Rural Fire Force",
+    "Ycoord": 5648921,
+    "Xcoord": 1905282,
+    "Latitude": -39.25532053,
+    "Longitude": 176.5378318
+  },
+  {
+    "Station ID": 1654,
+    "Station Name": "Puriri Fire Brigade (Auxiliary)",
+    "Ycoord": 5876341,
+    "Xcoord": 1833847,
+    "Latitude": -37.23013609,
+    "Longitude": 175.635917
+  },
+  {
+    "Station ID": 1886,
+    "Station Name": "Putaruru Volunteer Fire Brigade",
+    "Ycoord": 5784987,
+    "Xcoord": 1843741,
+    "Latitude": -38.05005801,
+    "Longitude": 175.7778043
+  },
+  {
+    "Station ID": 2672,
+    "Station Name": "Putorino Voluntary Rural Fire Force",
+    "Ycoord": 5660628,
+    "Xcoord": 1946259,
+    "Latitude": -39.13470763,
+    "Longitude": 177.0056914
+  },
+  {
+    "Station ID": 3776,
+    "Station Name": "Queenstown Volunteer Fire Brigade",
+    "Ycoord": 5004581,
+    "Xcoord": 1257999,
+    "Latitude": -45.02963666,
+    "Longitude": 168.6584821
+  },
+  {
+    "Station ID": 2376,
+    "Station Name": "Raetihi Volunteer Fire Brigade",
+    "Ycoord": 5633536,
+    "Xcoord": 1796016,
+    "Latitude": -39.42543056,
+    "Longitude": 175.2772632
+  },
+  {
+    "Station ID": 1639,
+    "Station Name": "Raglan Volunteer Fire Brigade",
+    "Ycoord": 5814612,
+    "Xcoord": 1764492,
+    "Latitude": -37.80106499,
+    "Longitude": 174.8684236
+  },
+  {
+    "Station ID": 2354,
+    "Station Name": "Rahotu Fire Brigade (Auxiliary)",
+    "Ycoord": 5646547,
+    "Xcoord": 1669178,
+    "Latitude": -39.32772187,
+    "Longitude": 173.8026088
+  },
+  {
+    "Station ID": 3223,
+    "Station Name": "Rai Valley Fire Brigade (Auxiliary)",
+    "Ycoord": 5435808,
+    "Xcoord": 1648927,
+    "Latitude": -41.22763384,
+    "Longitude": 173.5837712
+  },
+  {
+    "Station ID": 3464,
+    "Station Name": "Rakaia Volunteer Fire Brigade",
+    "Ycoord": 5154892,
+    "Xcoord": 1521089,
+    "Latitude": -43.75480963,
+    "Longitude": 172.0197773
+  },
+  {
+    "Station ID": 3779,
+    "Station Name": "Ranfurly Volunteer Fire Brigade",
+    "Ycoord": 4998646,
+    "Xcoord": 1372196,
+    "Latitude": -45.12890683,
+    "Longitude": 170.1031336
+  },
+  {
+    "Station ID": 3576,
+    "Station Name": "Rangiora Volunteer Fire Brigade",
+    "Ycoord": 5205221,
+    "Xcoord": 1567077,
+    "Latitude": -43.3051178,
+    "Longitude": 172.5940571
+  },
+  {
+    "Station ID": 1253,
+    "Station Name": "Rangiputa Voluntary Rural Fire Force",
+    "Ycoord": 6140168,
+    "Xcoord": 1627271,
+    "Latitude": -34.88049647,
+    "Longitude": 173.2984225
+  },
+  {
+    "Station ID": 3555,
+    "Station Name": "Rangitata Gorge Voluntary Rural Fire Force",
+    "Ycoord": 5162926,
+    "Xcoord": 1433848,
+    "Latitude": -43.6680929,
+    "Longitude": 170.9390798
+  },
+  {
+    "Station ID": 3551,
+    "Station Name": "Rangitata Voluntary Rural Fire Force",
+    "Ycoord": 5119472,
+    "Xcoord": 1469625,
+    "Latitude": -44.06632225,
+    "Longitude": 171.3720376
+  },
+  {
+    "Station ID": 2483,
+    "Station Name": "Rangitikei Voluntary Rural Fire Force",
+    "Ycoord": 5561980,
+    "Xcoord": 1802474,
+    "Latitude": -40.06812271,
+    "Longitude": 175.3742511
+  },
+  {
+    "Station ID": 2442,
+    "Station Name": "Rangiwahia Volunteer Fire Brigade",
+    "Ycoord": 5579399,
+    "Xcoord": 1847989,
+    "Latitude": -39.89922216,
+    "Longitude": 175.9007399
+  },
+  {
+    "Station ID": 3257,
+    "Station Name": "Rarangi Voluntary Rural Fire Force",
+    "Ycoord": 5416278,
+    "Xcoord": 1687175,
+    "Latitude": -41.40030892,
+    "Longitude": 174.0428699
+  },
+  {
+    "Station ID": 2473,
+    "Station Name": "Ratana Volunteer Fire Brigade",
+    "Ycoord": 5565326,
+    "Xcoord": 1785738,
+    "Latitude": -40.04185292,
+    "Longitude": 175.1771822
+  },
+  {
+    "Station ID": 3628,
+    "Station Name": "Ravensbourne Volunteer Fire Brigade",
+    "Ycoord": 4917934,
+    "Xcoord": 1410233,
+    "Latitude": -45.86599486,
+    "Longitude": 170.5551198
+  },
+  {
+    "Station ID": 1270,
+    "Station Name": "Rawene Volunteer Fire Brigade",
+    "Ycoord": 6082880,
+    "Xcoord": 1645750,
+    "Latitude": -35.39639151,
+    "Longitude": 173.5038014
+  },
+  {
+    "Station ID": 1247,
+    "Station Name": "Rawhiti Voluntary Rural Fire Force",
+    "Ycoord": 6101759,
+    "Xcoord": 1714307,
+    "Latitude": -35.22069448,
+    "Longitude": 174.2560058
+  },
+  {
+    "Station ID": 3268,
+    "Station Name": "Reefton Volunteer Fire Brigade",
+    "Ycoord": 5336467,
+    "Xcoord": 1506163,
+    "Latitude": -42.11828001,
+    "Longitude": 171.8648458
+  },
+  {
+    "Station ID": 1421,
+    "Station Name": "Remuera Station",
+    "Ycoord": 5916865,
+    "Xcoord": 1759988,
+    "Latitude": -36.88062493,
+    "Longitude": 174.795217
+  },
+  {
+    "Station ID": 3226,
+    "Station Name": "Renwick Volunteer Fire Brigade",
+    "Ycoord": 5404705,
+    "Xcoord": 1668955,
+    "Latitude": -41.5063111,
+    "Longitude": 173.826251
+  },
+  {
+    "Station ID": 3233,
+    "Station Name": "Richmond Volunteer Fire Brigade",
+    "Ycoord": 5423688,
+    "Xcoord": 1615196,
+    "Latitude": -41.33814461,
+    "Longitude": 173.1816164
+  },
+  {
+    "Station ID": 2949,
+    "Station Name": "Rimutaka Station",
+    "Ycoord": 5445302,
+    "Xcoord": 1774547,
+    "Latitude": -41.12482453,
+    "Longitude": 175.0792928
+  },
+  {
+    "Station ID": 2669,
+    "Station Name": "Rissington Voluntary Rural Fire Force",
+    "Ycoord": 5631896,
+    "Xcoord": 1917342,
+    "Latitude": -39.40408648,
+    "Longitude": 176.6853652
+  },
+  {
+    "Station ID": 2859,
+    "Station Name": "Riversdale Beach Voluntary Rural Fire Force",
+    "Ycoord": 5446976,
+    "Xcoord": 1857971,
+    "Latitude": -41.0875609,
+    "Longitude": 176.0712356
+  },
+  {
+    "Station ID": 3853,
+    "Station Name": "Riversdale Volunteer Fire Brigade",
+    "Ycoord": 4908290,
+    "Xcoord": 1269575,
+    "Latitude": -45.89949574,
+    "Longitude": 168.7403028
+  },
+  {
+    "Station ID": 3833,
+    "Station Name": "Riverton Volunteer Fire Brigade",
+    "Ycoord": 4854620,
+    "Xcoord": 1216340,
+    "Latitude": -46.35312047,
+    "Longitude": 168.0131023
+  },
+  {
+    "Station ID": 3442,
+    "Station Name": "Rolleston Volunteer Fire Brigade",
+    "Ycoord": 5173220,
+    "Xcoord": 1549696,
+    "Latitude": -43.59228876,
+    "Longitude": 172.3768106
+  },
+  {
+    "Station ID": 2425,
+    "Station Name": "Rongotea Volunteer Fire Brigade",
+    "Ycoord": 5537052,
+    "Xcoord": 1806001,
+    "Latitude": -40.29165645,
+    "Longitude": 175.42355
+  },
+  {
+    "Station ID": 3624,
+    "Station Name": "Roslyn Station",
+    "Ycoord": 4917968,
+    "Xcoord": 1404892,
+    "Latitude": -45.86419668,
+    "Longitude": 170.4863886
+  },
+  {
+    "Station ID": 3377,
+    "Station Name": "Ross Volunteer Fire Brigade",
+    "Ycoord": 5248183,
+    "Xcoord": 1421688,
+    "Latitude": -42.89812997,
+    "Longitude": 170.8159897
+  },
+  {
+    "Station ID": 1883,
+    "Station Name": "Rotoma Fire Brigade (Auxiliary)",
+    "Ycoord": 5782321,
+    "Xcoord": 1913191,
+    "Latitude": -38.05269115,
+    "Longitude": 176.5692017
+  },
+  {
+    "Station ID": 1881,
+    "Station Name": "Rotorua Station",
+    "Ycoord": 5774508,
+    "Xcoord": 1883650,
+    "Latitude": -38.13273223,
+    "Longitude": 176.2361673
+  },
+  {
+    "Station ID": 3645,
+    "Station Name": "Roxburgh Volunteer Fire Brigade",
+    "Ycoord": 4950302,
+    "Xcoord": 1312230,
+    "Latitude": -45.54130917,
+    "Longitude": 169.31388
+  },
+  {
+    "Station ID": 1217,
+    "Station Name": "Ruakaka Volunteer Fire Brigade",
+    "Ycoord": 6026141,
+    "Xcoord": 1730862,
+    "Latitude": -35.90027138,
+    "Longitude": 174.4500922
+  },
+  {
+    "Station ID": 2679,
+    "Station Name": "Ruakituri Voluntary Rural Fire Force",
+    "Ycoord": 5700777,
+    "Xcoord": 1980114,
+    "Latitude": -38.75986568,
+    "Longitude": 177.3740507
+  },
+  {
+    "Station ID": 2323,
+    "Station Name": "Ruapehu Voluntary Rural Fire Force",
+    "Ycoord": 5698212,
+    "Xcoord": 1796188,
+    "Latitude": -38.84304481,
+    "Longitude": 175.2605541
+  },
+  {
+    "Station ID": 2688,
+    "Station Name": "Ruatoria Volunteer Fire Brigade",
+    "Ycoord": 5793259,
+    "Xcoord": 2067904,
+    "Latitude": -37.88792463,
+    "Longitude": 178.319388
+  },
+  {
+    "Station ID": 1263,
+    "Station Name": "Ruawai Volunteer Fire Brigade",
+    "Ycoord": 6000448,
+    "Xcoord": 1691944,
+    "Latitude": -36.13631348,
+    "Longitude": 174.0218994
+  },
+  {
+    "Station ID": 3270,
+    "Station Name": "Runanga Volunteer Fire Brigade",
+    "Ycoord": 5304051,
+    "Xcoord": 1456071,
+    "Latitude": -42.4024986,
+    "Longitude": 171.2510561
+  },
+  {
+    "Station ID": 1276,
+    "Station Name": "Russell Volunteer Fire Brigade",
+    "Ycoord": 6097222,
+    "Xcoord": 1702274,
+    "Latitude": -35.26289657,
+    "Longitude": 174.1243757
+  },
+  {
+    "Station ID": 3492,
+    "Station Name": "Scargill Voluntary Rural Fire Force",
+    "Ycoord": 5243107,
+    "Xcoord": 1597390,
+    "Latitude": -42.96467485,
+    "Longitude": 172.9679905
+  },
+  {
+    "Station ID": 2942,
+    "Station Name": "Seaview Station",
+    "Ycoord": 5433180,
+    "Xcoord": 1760127,
+    "Latitude": -41.23692999,
+    "Longitude": 174.9107797
+  },
+  {
+    "Station ID": 3206,
+    "Station Name": "Seddon Voluntary Rural Fire Force",
+    "Ycoord": 5386017,
+    "Xcoord": 1689596,
+    "Latitude": -41.67256812,
+    "Longitude": 174.0763353
+  },
+  {
+    "Station ID": 3229,
+    "Station Name": "Seddon Volunteer Fire Brigade",
+    "Ycoord": 5386017,
+    "Xcoord": 1689596,
+    "Latitude": -41.67256812,
+    "Longitude": 174.0763353
+  },
+  {
+    "Station ID": 3393,
+    "Station Name": "Seddonville Voluntary Rural Fire Force",
+    "Ycoord": 5399648,
+    "Xcoord": 1515473,
+    "Latitude": -41.55036205,
+    "Longitude": 171.9864693
+  },
+  {
+    "Station ID": 3439,
+    "Station Name": "Sefton Voluntary Rural Fire Force",
+    "Ycoord": 5212044,
+    "Xcoord": 1566801,
+    "Latitude": -43.24366846,
+    "Longitude": 172.5910658
+  },
+  {
+    "Station ID": 3594,
+    "Station Name": "Selwyn Voluntary Rural Fire Force",
+    "Ycoord": 5184554,
+    "Xcoord": 1529989,
+    "Latitude": -43.48865507,
+    "Longitude": 172.1341592
+  },
+  {
+    "Station ID": 2839,
+    "Station Name": "Shannon Volunteer Fire Brigade",
+    "Ycoord": 5508601,
+    "Xcoord": 1804644,
+    "Latitude": -40.54808134,
+    "Longitude": 175.4167495
+  },
+  {
+    "Station ID": 3571,
+    "Station Name": "Sheffield Volunteer Fire Brigade",
+    "Ycoord": 5195596,
+    "Xcoord": 1520591,
+    "Latitude": -43.38830399,
+    "Longitude": 172.0195557
+  },
+  {
+    "Station ID": 1488,
+    "Station Name": "Shelly Beach Voluntary Rural Fire Force",
+    "Ycoord": 5951751,
+    "Xcoord": 1723254,
+    "Latitude": -36.57173653,
+    "Longitude": 174.3775239
+  },
+  {
+    "Station ID": 2667,
+    "Station Name": "Sherenden Voluntary Rural Fire Force",
+    "Ycoord": 5621038,
+    "Xcoord": 1907359,
+    "Latitude": -39.50534631,
+    "Longitude": 176.5746415
+  },
+  {
+    "Station ID": 1490,
+    "Station Name": "Silverdale Station",
+    "Ycoord": 5947463,
+    "Xcoord": 1751145,
+    "Latitude": -36.6063677,
+    "Longitude": 174.6899729
+  },
+  {
+    "Station ID": 2947,
+    "Station Name": "Silverstream Volunteer Fire Brigade",
+    "Ycoord": 5442777,
+    "Xcoord": 1768604,
+    "Latitude": -41.14881147,
+    "Longitude": 175.0092328
+  },
+  {
+    "Station ID": 3425,
+    "Station Name": "Sockburn Station",
+    "Ycoord": 5177897,
+    "Xcoord": 1563330,
+    "Latitude": -43.55097345,
+    "Longitude": 172.5460232
+  },
+  {
+    "Station ID": 3241,
+    "Station Name": "Sounds Voluntary Rural Fire Force",
+    "Ycoord": 5436745,
+    "Xcoord": 1681463,
+    "Latitude": -41.21657269,
+    "Longitude": 173.9718065
+  },
+  {
+    "Station ID": 3593,
+    "Station Name": "South Canterbury Voluntary Rural Fire Force",
+    "Ycoord": 5116307,
+    "Xcoord": 1459342,
+    "Latitude": -44.09290321,
+    "Longitude": 171.2428513
+  },
+  {
+    "Station ID": 3445,
+    "Station Name": "Southbridge Volunteer Fire Brigade",
+    "Ycoord": 5148741,
+    "Xcoord": 1539808,
+    "Latitude": -43.81194514,
+    "Longitude": 172.2515875
+  },
+  {
+    "Station ID": 3574,
+    "Station Name": "Springfield Volunteer Fire Brigade",
+    "Ycoord": 5201230,
+    "Xcoord": 1513259,
+    "Latitude": -43.33676955,
+    "Longitude": 171.9299369
+  },
+  {
+    "Station ID": 3423,
+    "Station Name": "St Albans Station",
+    "Ycoord": 5183577,
+    "Xcoord": 1570160,
+    "Latitude": -43.50013479,
+    "Longitude": 172.6308878
+  },
+  {
+    "Station ID": 3587,
+    "Station Name": "St Andrews Volunteer Fire Brigade",
+    "Ycoord": 5067855,
+    "Xcoord": 1456110,
+    "Latitude": -44.52827285,
+    "Longitude": 171.1891347
+  },
+  {
+    "Station ID": 1424,
+    "Station Name": "St Heliers Station",
+    "Ycoord": 5918778,
+    "Xcoord": 1765420,
+    "Latitude": -36.8624528,
+    "Longitude": 174.8557234
+  },
+  {
+    "Station ID": 3622,
+    "Station Name": "St Kilda Station",
+    "Ycoord": 4914191,
+    "Xcoord": 1406818,
+    "Latitude": -45.89870248,
+    "Longitude": 170.5096599
+  },
+  {
+    "Station ID": 3222,
+    "Station Name": "Stoke Volunteer Fire Brigade",
+    "Ycoord": 5426627,
+    "Xcoord": 1619677,
+    "Latitude": -41.31157416,
+    "Longitude": 173.2350763
+  },
+  {
+    "Station ID": 2943,
+    "Station Name": "Stokes Valley Volunteer Fire Brigade",
+    "Ycoord": 5438925,
+    "Xcoord": 1766255,
+    "Latitude": -41.1839742,
+    "Longitude": 174.9823013
+  },
+  {
+    "Station ID": 2348,
+    "Station Name": "Stratford Volunteer Fire Brigade",
+    "Ycoord": 5644809,
+    "Xcoord": 1710543,
+    "Latitude": -39.33908118,
+    "Longitude": 174.2827233
+  },
+  {
+    "Station ID": 3428,
+    "Station Name": "Sumner Volunteer Fire Brigade",
+    "Ycoord": 5175721,
+    "Xcoord": 1580554,
+    "Latitude": -43.57121424,
+    "Longitude": 172.7591733
+  },
+  {
+    "Station ID": 3517,
+    "Station Name": "Swannanoa Voluntary Rural Fire Force",
+    "Ycoord": 5195443,
+    "Xcoord": 1563231,
+    "Latitude": -43.39298333,
+    "Longitude": 172.545982
+  },
+  {
+    "Station ID": 1635,
+    "Station Name": "Tahuna Volunteer Fire Brigade",
+    "Ycoord": 5846726,
+    "Xcoord": 1820361,
+    "Latitude": -37.50011459,
+    "Longitude": 175.4928507
+  },
+  {
+    "Station ID": 2477,
+    "Station Name": "Taihape Volunteer Fire Brigade",
+    "Ycoord": 5604221,
+    "Xcoord": 1840240,
+    "Latitude": -39.67807221,
+    "Longitude": 175.8011229
+  },
+  {
+    "Station ID": 1663,
+    "Station Name": "Tairua Volunteer Fire Brigade",
+    "Ycoord": 5901210,
+    "Xcoord": 1853463,
+    "Latitude": -37.00111359,
+    "Longitude": 175.8483815
+  },
+  {
+    "Station ID": 3239,
+    "Station Name": "Takaka Volunteer Fire Brigade",
+    "Ycoord": 5476696,
+    "Xcoord": 1583727,
+    "Latitude": -40.8606257,
+    "Longitude": 172.8069132
+  },
+  {
+    "Station ID": 2761,
+    "Station Name": "Takapau Volunteer Fire Brigade",
+    "Ycoord": 5563892,
+    "Xcoord": 1885886,
+    "Latitude": -40.02677274,
+    "Longitude": 176.3501655
+  },
+  {
+    "Station ID": 1480,
+    "Station Name": "Takapuna Station",
+    "Ycoord": 5928457,
+    "Xcoord": 1755703,
+    "Latitude": -36.77689182,
+    "Longitude": 174.7447817
+  },
+  {
+    "Station ID": 2756,
+    "Station Name": "Tamatea Voluntary Rural Fire Force",
+    "Ycoord": 5567650,
+    "Xcoord": 1903689,
+    "Latitude": -39.98676423,
+    "Longitude": 176.5566657
+  },
+  {
+    "Station ID": 1895,
+    "Station Name": "Taneatua Volunteer Fire Brigade",
+    "Ycoord": 5779483,
+    "Xcoord": 1951244,
+    "Latitude": -38.0642529,
+    "Longitude": 177.0033328
+  },
+  {
+    "Station ID": 2426,
+    "Station Name": "Tangimoana Fire Brigade (Auxiliary)",
+    "Ycoord": 5537017,
+    "Xcoord": 1790854,
+    "Latitude": -40.2955663,
+    "Longitude": 175.2454944
+  },
+  {
+    "Station ID": 3851,
+    "Station Name": "Tapanui Volunteer Fire Brigade",
+    "Ycoord": 4905474,
+    "Xcoord": 1310271,
+    "Latitude": -45.94312946,
+    "Longitude": 169.2620291
+  },
+  {
+    "Station ID": 3235,
+    "Station Name": "Tapawera Volunteer Fire Brigade",
+    "Ycoord": 5418159,
+    "Xcoord": 1585185,
+    "Latitude": -41.38795476,
+    "Longitude": 172.8227997
+  },
+  {
+    "Station ID": 1656,
+    "Station Name": "Tapu Volunteer Fire Brigade",
+    "Ycoord": 5903845,
+    "Xcoord": 1822651,
+    "Latitude": -36.98518648,
+    "Longitude": 175.5016639
+  },
+  {
+    "Station ID": 2655,
+    "Station Name": "Taradale Volunteer Fire Brigade",
+    "Ycoord": 5616499,
+    "Xcoord": 1930836,
+    "Latitude": -39.53744403,
+    "Longitude": 176.8493811
+  },
+  {
+    "Station ID": 3786,
+    "Station Name": "Tarras Voluntary Rural Fire Force",
+    "Ycoord": 5029627,
+    "Xcoord": 1317621,
+    "Latitude": -44.83086781,
+    "Longitude": 169.4277094
+  },
+  {
+    "Station ID": 3247,
+    "Station Name": "Tasman Voluntary Rural Fire Force",
+    "Ycoord": 5447638,
+    "Xcoord": 1599539,
+    "Latitude": -41.12254905,
+    "Longitude": 172.9945072
+  },
+  {
+    "Station ID": 2325,
+    "Station Name": "Taumarunui Volunteer Fire Brigade",
+    "Ycoord": 5693452,
+    "Xcoord": 1796303,
+    "Latitude": -38.88588071,
+    "Longitude": 175.2632374
+  },
+  {
+    "Station ID": 1246,
+    "Station Name": "Taupo Bay Voluntary Rural Fire Force",
+    "Ycoord": 6128091,
+    "Xcoord": 1662215,
+    "Latitude": -34.98785381,
+    "Longitude": 173.6816909
+  },
+  {
+    "Station ID": 1821,
+    "Station Name": "Taupo Station",
+    "Ycoord": 5712803,
+    "Xcoord": 1867544,
+    "Latitude": -38.69295347,
+    "Longitude": 176.0761396
+  },
+  {
+    "Station ID": 1871,
+    "Station Name": "Tauranga Station",
+    "Ycoord": 5824374,
+    "Xcoord": 1879132,
+    "Latitude": -37.6853873,
+    "Longitude": 176.1653903
+  },
+  {
+    "Station ID": 2933,
+    "Station Name": "Tawa Volunteer Fire Brigade",
+    "Ycoord": 5440646,
+    "Xcoord": 1752871,
+    "Latitude": -41.17111476,
+    "Longitude": 174.8223719
+  },
+  {
+    "Station ID": 1687,
+    "Station Name": "Te Akau Voluntary Rural Fire Force",
+    "Ycoord": 5828317,
+    "Xcoord": 1763934,
+    "Latitude": -37.67770333,
+    "Longitude": 174.8589974
+  },
+  {
+    "Station ID": 3973,
+    "Station Name": "Te Anau Volunteer Fire Brigade",
+    "Ycoord": 4957196,
+    "Xcoord": 1186831,
+    "Latitude": -45.41652976,
+    "Longitude": 167.719243
+  },
+  {
+    "Station ID": 2689,
+    "Station Name": "Te Araroa Volunteer Fire Brigade",
+    "Ycoord": 5821042,
+    "Xcoord": 2073900,
+    "Latitude": -37.63551791,
+    "Longitude": 178.3691742
+  },
+  {
+    "Station ID": 1637,
+    "Station Name": "Te Aroha Volunteer Fire Brigade",
+    "Ycoord": 5841553,
+    "Xcoord": 1839776,
+    "Latitude": -37.54185261,
+    "Longitude": 175.7139557
+  },
+  {
+    "Station ID": 1466,
+    "Station Name": "Te Atatu Station",
+    "Ycoord": 5919312,
+    "Xcoord": 1747162,
+    "Latitude": -36.86066209,
+    "Longitude": 174.6508792
+  },
+  {
+    "Station ID": 1645,
+    "Station Name": "Te Awamutu Volunteer Fire Brigade",
+    "Ycoord": 5790359,
+    "Xcoord": 1804076,
+    "Latitude": -38.01149271,
+    "Longitude": 175.3246068
+  },
+  {
+    "Station ID": 2648,
+    "Station Name": "Te Haroto Voluntary Rural Fire Force",
+    "Ycoord": 5661318,
+    "Xcoord": 1911403,
+    "Latitude": -39.14165707,
+    "Longitude": 176.60293
+  },
+  {
+    "Station ID": 2846,
+    "Station Name": "Te Horo Voluntary Rural Fire Force",
+    "Ycoord": 5480528,
+    "Xcoord": 1779146,
+    "Latitude": -40.8067159,
+    "Longitude": 175.1238483
+  },
+  {
+    "Station ID": 1890,
+    "Station Name": "Te Kaha Voluntary Rural Fire Force",
+    "Ycoord": 5811410,
+    "Xcoord": 2012554,
+    "Latitude": -37.75161577,
+    "Longitude": 177.6818713
+  },
+  {
+    "Station ID": 2685,
+    "Station Name": "Te Karaka Volunteer Fire Brigade",
+    "Ycoord": 5730977,
+    "Xcoord": 2024449,
+    "Latitude": -38.46851133,
+    "Longitude": 177.8642056
+  },
+  {
+    "Station ID": 1631,
+    "Station Name": "Te Kauwhata Volunteer Fire Brigade",
+    "Ycoord": 5858326,
+    "Xcoord": 1789787,
+    "Latitude": -37.40242052,
+    "Longitude": 175.144234
+  },
+  {
+    "Station ID": 1213,
+    "Station Name": "Te Kopuru Fire Brigade (Auxiliary)",
+    "Ycoord": 6012120,
+    "Xcoord": 1683024,
+    "Latitude": -36.03189933,
+    "Longitude": 173.9215427
+  },
+  {
+    "Station ID": 1647,
+    "Station Name": "Te Kuiti Volunteer Fire Brigade",
+    "Ycoord": 5754843,
+    "Xcoord": 1789345,
+    "Latitude": -38.33455384,
+    "Longitude": 175.1663743
+  },
+  {
+    "Station ID": 2673,
+    "Station Name": "Te Pohue Voluntary Rural Fire Force",
+    "Ycoord": 5648406,
+    "Xcoord": 1919031,
+    "Latitude": -39.25500576,
+    "Longitude": 176.6971053
+  },
+  {
+    "Station ID": 2693,
+    "Station Name": "Te Puia Springs Volunteer Fire Brigade",
+    "Ycoord": 5774443,
+    "Xcoord": 2065622,
+    "Latitude": -38.05795353,
+    "Longitude": 178.3057226
+  },
+  {
+    "Station ID": 1879,
+    "Station Name": "Te Puke Volunteer Fire Brigade",
+    "Ycoord": 5812652,
+    "Xcoord": 1892755,
+    "Latitude": -37.78661784,
+    "Longitude": 176.3243621
+  },
+  {
+    "Station ID": 2770,
+    "Station Name": "Te Uri Voluntary Rural Fire Force",
+    "Ycoord": 5540530,
+    "Xcoord": 1883948,
+    "Latitude": -40.23755228,
+    "Longitude": 176.3377653
+  },
+  {
+    "Station ID": 3586,
+    "Station Name": "Temuka Volunteer Fire Brigade",
+    "Ycoord": 5099824,
+    "Xcoord": 1462587,
+    "Latitude": -44.24185299,
+    "Longitude": 171.2790619
+  },
+  {
+    "Station ID": 3666,
+    "Station Name": "Teviot Valley Voluntary Rural Fire Force",
+    "Ycoord": 4937315,
+    "Xcoord": 1320598,
+    "Latitude": -45.66138233,
+    "Longitude": 169.4134178
+  },
+  {
+    "Station ID": 1655,
+    "Station Name": "Thames Volunteer Fire Brigade",
+    "Ycoord": 5886952,
+    "Xcoord": 1825663,
+    "Latitude": -37.13659813,
+    "Longitude": 175.540547
+  },
+  {
+    "Station ID": 3836,
+    "Station Name": "Thornbury Volunteer Fire Brigade",
+    "Ycoord": 4862229,
+    "Xcoord": 1222181,
+    "Latitude": -46.28817392,
+    "Longitude": 168.0948555
+  },
+  {
+    "Station ID": 2923,
+    "Station Name": "Thorndon Station",
+    "Ycoord": 5429147,
+    "Xcoord": 1749330,
+    "Latitude": -41.2753065,
+    "Longitude": 174.7829896
+  },
+  {
+    "Station ID": 2691,
+    "Station Name": "Tikitiki Volunteer Fire Brigade",
+    "Ycoord": 5803162,
+    "Xcoord": 2076555,
+    "Latitude": -37.79458694,
+    "Longitude": 178.4108222
+  },
+  {
+    "Station ID": 2766,
+    "Station Name": "Tikokino Volunteer Fire Brigade",
+    "Ycoord": 5586491,
+    "Xcoord": 1895589,
+    "Latitude": -39.82018809,
+    "Longitude": 176.4534402
+  },
+  {
+    "Station ID": 3580,
+    "Station Name": "Timaru Station",
+    "Ycoord": 5082321,
+    "Xcoord": 1460877,
+    "Latitude": -44.39903481,
+    "Longitude": 171.252987
+  },
+  {
+    "Station ID": 2680,
+    "Station Name": "Tiniroto Voluntary Rural Fire Force",
+    "Ycoord": 5698378,
+    "Xcoord": 1997048,
+    "Latitude": -38.77396855,
+    "Longitude": 177.5697271
+  },
+  {
+    "Station ID": 1288,
+    "Station Name": "Tinopai Voluntary Rural Fire Force",
+    "Ycoord": 5988071,
+    "Xcoord": 1711514,
+    "Latitude": -36.24582106,
+    "Longitude": 174.2411249
+  },
+  {
+    "Station ID": 2856,
+    "Station Name": "Tinui Voluntary Rural Fire Force",
+    "Ycoord": 5470205,
+    "Xcoord": 1858785,
+    "Latitude": -40.87835133,
+    "Longitude": 176.0711958
+  },
+  {
+    "Station ID": 1885,
+    "Station Name": "Tirau Volunteer Fire Brigade",
+    "Ycoord": 5793426,
+    "Xcoord": 1842565,
+    "Latitude": -37.97440276,
+    "Longitude": 175.7615625
+  },
+  {
+    "Station ID": 2747,
+    "Station Name": "Tiraumea Voluntary Rural Fire Force",
+    "Ycoord": 5497661,
+    "Xcoord": 1858131,
+    "Latitude": -40.63156981,
+    "Longitude": 176.0521185
+  },
+  {
+    "Station ID": 2934,
+    "Station Name": "Titahi Bay Volunteer Fire Brigade",
+    "Ycoord": 5447561,
+    "Xcoord": 1754207,
+    "Latitude": -41.10860324,
+    "Longitude": 174.8365525
+  },
+  {
+    "Station ID": 1469,
+    "Station Name": "Titirangi Station",
+    "Ycoord": 5910499,
+    "Xcoord": 1747374,
+    "Latitude": -36.94004136,
+    "Longitude": 174.6549709
+  },
+  {
+    "Station ID": 3831,
+    "Station Name": "Tokanui Volunteer Fire Brigade",
+    "Ycoord": 4835267,
+    "Xcoord": 1289122,
+    "Latitude": -46.56418013,
+    "Longitude": 168.9435512
+  },
+  {
+    "Station ID": 2349,
+    "Station Name": "Toko Fire Brigade (Auxiliary)",
+    "Ycoord": 5645032,
+    "Xcoord": 1720132,
+    "Latitude": -39.33579308,
+    "Longitude": 174.3939231
+  },
+  {
+    "Station ID": 2692,
+    "Station Name": "Tokomaru Bay Volunteer Fire Brigade",
+    "Ycoord": 5766411,
+    "Xcoord": 2065962,
+    "Latitude": -38.12985755,
+    "Longitude": 178.3148135
+  },
+  {
+    "Station ID": 2827,
+    "Station Name": "Tokomaru Volunteer Fire Brigade",
+    "Ycoord": 5516520,
+    "Xcoord": 1812724,
+    "Latitude": -40.47477305,
+    "Longitude": 175.5094254
+  },
+  {
+    "Station ID": 1887,
+    "Station Name": "Tokoroa Volunteer Fire Brigade",
+    "Ycoord": 5765983,
+    "Xcoord": 1851107,
+    "Latitude": -38.21910788,
+    "Longitude": 175.868349
+  },
+  {
+    "Station ID": 2687,
+    "Station Name": "Tolaga Bay Volunteer Fire Brigade",
+    "Ycoord": 5739618,
+    "Xcoord": 2062805,
+    "Latitude": -38.37192145,
+    "Longitude": 178.2964165
+  },
+  {
+    "Station ID": 2858,
+    "Station Name": "Tora (Tuturumuri) Voluntary Rural Fire Force",
+    "Ycoord": 5410877,
+    "Xcoord": 1806505,
+    "Latitude": -41.42713386,
+    "Longitude": 175.4713453
+  },
+  {
+    "Station ID": 2663,
+    "Station Name": "Torran Voluntary Rural Fire Force",
+    "Ycoord": 5596549,
+    "Xcoord": 1912033,
+    "Latitude": -39.72387413,
+    "Longitude": 176.6404303
+  },
+  {
+    "Station ID": 1287,
+    "Station Name": "Towai Voluntary Rural Fire Force",
+    "Ycoord": 6071564,
+    "Xcoord": 1702606,
+    "Latitude": -35.49417253,
+    "Longitude": 174.1312493
+  },
+  {
+    "Station ID": 2948,
+    "Station Name": "Trentham Station",
+    "Ycoord": 5444671,
+    "Xcoord": 1771460,
+    "Latitude": -41.13116264,
+    "Longitude": 175.0427177
+  },
+  {
+    "Station ID": 1496,
+    "Station Name": "Tryphena Rural Fire Party",
+    "Ycoord": 5978305,
+    "Xcoord": 1824356,
+    "Latitude": -36.31417294,
+    "Longitude": 175.4990278
+  },
+  {
+    "Station ID": 2698,
+    "Station Name": "Tuai Voluntary Rural Fire Force",
+    "Ycoord": 5695766,
+    "Xcoord": 1960019,
+    "Latitude": -38.81332472,
+    "Longitude": 177.1460038
+  },
+  {
+    "Station ID": 1751,
+    "Station Name": "Tuakau Volunteer Fire Brigade",
+    "Ycoord": 5874503,
+    "Xcoord": 1772502,
+    "Latitude": -37.26006655,
+    "Longitude": 174.9452919
+  },
+  {
+    "Station ID": 3972,
+    "Station Name": "Tuatapere Volunteer Fire Brigade",
+    "Ycoord": 4877247,
+    "Xcoord": 1189887,
+    "Latitude": -46.13487039,
+    "Longitude": 167.6903731
+  },
+  {
+    "Station ID": 1823,
+    "Station Name": "Turangi Volunteer Fire Brigade",
+    "Ycoord": 5680561,
+    "Xcoord": 1843059,
+    "Latitude": -38.99022233,
+    "Longitude": 175.8063315
+  },
+  {
+    "Station ID": 1653,
+    "Station Name": "Turua Volunteer Fire Brigade",
+    "Ycoord": 5875337,
+    "Xcoord": 1827789,
+    "Latitude": -37.24067687,
+    "Longitude": 175.5680016
+  },
+  {
+    "Station ID": 3590,
+    "Station Name": "Twizel Volunteer Fire Brigade",
+    "Ycoord": 5095124,
+    "Xcoord": 1368333,
+    "Latitude": -44.26024874,
+    "Longitude": 170.0977626
+  },
+  {
+    "Station ID": 2894,
+    "Station Name": "Upper Hutt Voluntary Rural Fire Force",
+    "Ycoord": 5445262,
+    "Xcoord": 1774356,
+    "Latitude": -41.12522565,
+    "Longitude": 175.0770303
+  },
+  {
+    "Station ID": 3232,
+    "Station Name": "Upper Moutere Volunteer Fire Brigade",
+    "Ycoord": 5431898,
+    "Xcoord": 1600523,
+    "Latitude": -41.2643339,
+    "Longitude": 173.0062425
+  },
+  {
+    "Station ID": 3254,
+    "Station Name": "Upper Takaka Voluntary Rural Fire Force",
+    "Ycoord": 5458008,
+    "Xcoord": 1585120,
+    "Latitude": -41.02899898,
+    "Longitude": 172.8229926
+  },
+  {
+    "Station ID": 2366,
+    "Station Name": "Urenui Volunteer Fire Brigade",
+    "Ycoord": 5682463,
+    "Xcoord": 1720296,
+    "Latitude": -38.99857573,
+    "Longitude": 174.3891755
+  },
+  {
+    "Station ID": 3418,
+    "Station Name": "Victoria Park Voluntary Rural Fire Force",
+    "Ycoord": 5173554,
+    "Xcoord": 1571246,
+    "Latitude": -43.59042502,
+    "Longitude": 172.6437897
+  },
+  {
+    "Station ID": 1471,
+    "Station Name": "Waiatarua Volunteer Fire Brigade",
+    "Ycoord": 5911295,
+    "Xcoord": 1740513,
+    "Latitude": -36.93391705,
+    "Longitude": 174.5778031
+  },
+  {
+    "Station ID": 1758,
+    "Station Name": "Waiau Pa Volunteer Fire Brigade (Auxiliary)",
+    "Ycoord": 5888511,
+    "Xcoord": 1755588,
+    "Latitude": -37.13683585,
+    "Longitude": 174.7517205
+  },
+  {
+    "Station ID": 3568,
+    "Station Name": "Waiau Volunteer Fire Brigade",
+    "Ycoord": 5277581,
+    "Xcoord": 1603375,
+    "Latitude": -42.65421993,
+    "Longitude": 173.0411708
+  },
+  {
+    "Station ID": 3557,
+    "Station Name": "Waihaorunga Rural Fire Party (Hunter Hills VRFF)",
+    "Ycoord": 5044611,
+    "Xcoord": 1427655,
+    "Latitude": -44.73113942,
+    "Longitude": 170.8234588
+  },
+  {
+    "Station ID": 1899,
+    "Station Name": "Waihau Bay Voluntary Rural Fire Force",
+    "Ycoord": 5825189,
+    "Xcoord": 2033198,
+    "Latitude": -37.61834866,
+    "Longitude": 177.9071995
+  },
+  {
+    "Station ID": 1867,
+    "Station Name": "Waihi Beach Volunteer Fire Brigade",
+    "Ycoord": 5856705,
+    "Xcoord": 1859906,
+    "Latitude": -37.40000292,
+    "Longitude": 175.9361928
+  },
+  {
+    "Station ID": 1660,
+    "Station Name": "Waihi Volunteer Fire Brigade",
+    "Ycoord": 5857894,
+    "Xcoord": 1851710,
+    "Latitude": -37.39156106,
+    "Longitude": 175.8433028
+  },
+  {
+    "Station ID": 3668,
+    "Station Name": "Waihola Voluntary Rural Fire Force",
+    "Ycoord": 4899204,
+    "Xcoord": 1375056,
+    "Latitude": -46.02376709,
+    "Longitude": 170.0936645
+  },
+  {
+    "Station ID": 3249,
+    "Station Name": "Waihopai Valley Voluntary Rural Fire Force",
+    "Ycoord": 5397775,
+    "Xcoord": 1661459,
+    "Latitude": -41.56933735,
+    "Longitude": 173.7371461
+  },
+  {
+    "Station ID": 3846,
+    "Station Name": "Waikaia Volunteer Fire Brigade",
+    "Ycoord": 4928190,
+    "Xcoord": 1276891,
+    "Latitude": -45.72432913,
+    "Longitude": 168.8476832
+  },
+  {
+    "Station ID": 3847,
+    "Station Name": "Waikaka Volunteer Fire Brigade",
+    "Ycoord": 4906879,
+    "Xcoord": 1291096,
+    "Latitude": -45.9221626,
+    "Longitude": 169.0161324
+  },
+  {
+    "Station ID": 2838,
+    "Station Name": "Waikanae Volunteer Fire Brigade",
+    "Ycoord": 5472770,
+    "Xcoord": 1772511,
+    "Latitude": -40.87797985,
+    "Longitude": 175.0473851
+  },
+  {
+    "Station ID": 3460,
+    "Station Name": "Waikari Volunteer Fire Brigade",
+    "Ycoord": 5242745,
+    "Xcoord": 1574462,
+    "Latitude": -42.96751073,
+    "Longitude": 172.6868411
+  },
+  {
+    "Station ID": 3994,
+    "Station Name": "Waikawa / Curio Bay Voluntary Rural Fire Force",
+    "Ycoord": 4829421,
+    "Xcoord": 1304043,
+    "Latitude": -46.623404,
+    "Longitude": 169.1340464
+  },
+  {
+    "Station ID": 2649,
+    "Station Name": "Waikoau Voluntary Rural Fire Force",
+    "Ycoord": 5649542,
+    "Xcoord": 1929380,
+    "Latitude": -39.24092582,
+    "Longitude": 176.8162358
+  },
+  {
+    "Station ID": 3775,
+    "Station Name": "Waikouaiti Volunteer Fire Brigade",
+    "Ycoord": 4948122,
+    "Xcoord": 1418404,
+    "Latitude": -45.59670867,
+    "Longitude": 170.6716156
+  },
+  {
+    "Station ID": 3518,
+    "Station Name": "Waikuku Beach Voluntary Rural Fire Force",
+    "Ycoord": 5207251,
+    "Xcoord": 1577120,
+    "Latitude": -43.28721106,
+    "Longitude": 172.7179686
+  },
+  {
+    "Station ID": 3832,
+    "Station Name": "Waimahaka Volunteer Fire Brigade",
+    "Ycoord": 4840108,
+    "Xcoord": 1278942,
+    "Latitude": -46.51594753,
+    "Longitude": 168.8144211
+  },
+  {
+    "Station ID": 1898,
+    "Station Name": "Waimana Voluntary Rural Fire Force",
+    "Ycoord": 5770383,
+    "Xcoord": 1957350,
+    "Latitude": -38.14367187,
+    "Longitude": 177.0773171
+  },
+  {
+    "Station ID": 3382,
+    "Station Name": "Waimangaroa Volunteer Fire Brigade",
+    "Ycoord": 5381292,
+    "Xcoord": 1497190,
+    "Latitude": -41.71351967,
+    "Longitude": 171.7641359
+  },
+  {
+    "Station ID": 2675,
+    "Station Name": "Waimarama Voluntary Rural Fire Force",
+    "Ycoord": 5585575,
+    "Xcoord": 1941043,
+    "Latitude": -39.81141645,
+    "Longitude": 176.9838391
+  },
+  {
+    "Station ID": 2322,
+    "Station Name": "Waimarino Voluntary Rural Fire Force",
+    "Ycoord": 5632747,
+    "Xcoord": 1796337,
+    "Latitude": -39.4324613,
+    "Longitude": 175.2812215
+  },
+  {
+    "Station ID": 3588,
+    "Station Name": "Waimate Volunteer Fire Brigade",
+    "Ycoord": 5044358,
+    "Xcoord": 1445198,
+    "Latitude": -44.73742243,
+    "Longitude": 171.0447953
+  },
+  {
+    "Station ID": 3432,
+    "Station Name": "Wainoni Station",
+    "Ycoord": 5182859,
+    "Xcoord": 1577768,
+    "Latitude": -43.50686484,
+    "Longitude": 172.7249641
+  },
+  {
+    "Station ID": 3252,
+    "Station Name": "Wainui Bay Voluntary Rural Fire Force",
+    "Ycoord": 5480207,
+    "Xcoord": 1595395,
+    "Latitude": -40.82914564,
+    "Longitude": 172.9453848
+  },
+  {
+    "Station ID": 2895,
+    "Station Name": "Wainuiomata Bush Voluntary Rural Fire Force",
+    "Ycoord": 5430777,
+    "Xcoord": 1762935,
+    "Latitude": -41.2580027,
+    "Longitude": 174.9449104
+  },
+  {
+    "Station ID": 2944,
+    "Station Name": "Wainuiomata Volunteer Fire Brigade",
+    "Ycoord": 5430877,
+    "Xcoord": 1763182,
+    "Latitude": -41.25705261,
+    "Longitude": 174.9478304
+  },
+  {
+    "Station ID": 2854,
+    "Station Name": "Wainuioru Voluntary Rural Fire Force",
+    "Ycoord": 5453366,
+    "Xcoord": 1836130,
+    "Latitude": -41.03670375,
+    "Longitude": 175.809074
+  },
+  {
+    "Station ID": 3461,
+    "Station Name": "Waipara Volunteer Fire Brigade",
+    "Ycoord": 5232783,
+    "Xcoord": 1580304,
+    "Latitude": -43.05739207,
+    "Longitude": 172.7581242
+  },
+  {
+    "Station ID": 2763,
+    "Station Name": "Waipawa Volunteer Fire Brigade",
+    "Ycoord": 5572503,
+    "Xcoord": 1906382,
+    "Latitude": -39.94215371,
+    "Longitude": 176.5858634
+  },
+  {
+    "Station ID": 1216,
+    "Station Name": "Waipu Volunteer Fire Brigade",
+    "Ycoord": 6016967,
+    "Xcoord": 1730568,
+    "Latitude": -35.98299729,
+    "Longitude": 174.4483435
+  },
+  {
+    "Station ID": 2758,
+    "Station Name": "Waipukurau Volunteer Fire Brigade",
+    "Ycoord": 5566836,
+    "Xcoord": 1903578,
+    "Latitude": -39.99412394,
+    "Longitude": 176.5557481
+  },
+  {
+    "Station ID": 3225,
+    "Station Name": "Wairau Valley Volunteer Fire Brigade (Auxiliary)",
+    "Ycoord": 5398813,
+    "Xcoord": 1645070,
+    "Latitude": -41.56108014,
+    "Longitude": 173.5405063
+  },
+  {
+    "Station ID": 2694,
+    "Station Name": "Wairoa Volunteer Fire Brigade",
+    "Ycoord": 5670016,
+    "Xcoord": 1982674,
+    "Latitude": -39.03514054,
+    "Longitude": 177.4205631
+  },
+  {
+    "Station ID": 3759,
+    "Station Name": "Waitahuna Volunteer Fire Brigade",
+    "Ycoord": 4902489,
+    "Xcoord": 1348884,
+    "Latitude": -45.98515545,
+    "Longitude": 169.7577633
+  },
+  {
+    "Station ID": 1477,
+    "Station Name": "Waitakere Volunteer Fire Brigade",
+    "Ycoord": 5920789,
+    "Xcoord": 1737672,
+    "Latitude": -36.84878314,
+    "Longitude": 174.5441879
+  },
+  {
+    "Station ID": 3662,
+    "Station Name": "Waitaki Voluntary Rural Fire Force",
+    "Ycoord": 5002916,
+    "Xcoord": 1436575,
+    "Latitude": -45.10832546,
+    "Longitude": 170.9225547
+  },
+  {
+    "Station ID": 2347,
+    "Station Name": "Waitara Volunteer Fire Brigade",
+    "Ycoord": 5682492,
+    "Xcoord": 1706845,
+    "Latitude": -39.00006036,
+    "Longitude": 174.2338748
+  },
+  {
+    "Station ID": 2835,
+    "Station Name": "Waitarere Volunteer Fire Brigade",
+    "Ycoord": 5508581,
+    "Xcoord": 1786776,
+    "Latitude": -40.55248179,
+    "Longitude": 175.2058986
+  },
+  {
+    "Station ID": 3243,
+    "Station Name": "Waitaria/Clova Bay Voluntary Rural Fire Force",
+    "Ycoord": 5449116,
+    "Xcoord": 1687996,
+    "Latitude": -41.10446959,
+    "Longitude": 174.0479531
+  },
+  {
+    "Station ID": 3626,
+    "Station Name": "Waitati Volunteer Fire Brigade",
+    "Ycoord": 4931151,
+    "Xcoord": 1410993,
+    "Latitude": -45.74734962,
+    "Longitude": 170.5700786
+  },
+  {
+    "Station ID": 1757,
+    "Station Name": "Waiuku Volunteer Fire Brigade",
+    "Ycoord": 5876286,
+    "Xcoord": 1753353,
+    "Latitude": -37.24735259,
+    "Longitude": 174.7290783
+  },
+  {
+    "Station ID": 3651,
+    "Station Name": "Waiwera South Volunteer Fire Brigade",
+    "Ycoord": 4875860,
+    "Xcoord": 1329357,
+    "Latitude": -46.2169483,
+    "Longitude": 169.490942
+  },
+  {
+    "Station ID": 2668,
+    "Station Name": "Waiwhare Voluntary Rural Fire Force",
+    "Ycoord": 5629437,
+    "Xcoord": 1898316,
+    "Latitude": -39.43298941,
+    "Longitude": 176.465899
+  },
+  {
+    "Station ID": 3796,
+    "Station Name": "Wakari Voluntary Rural Fire Force",
+    "Ycoord": 4918135,
+    "Xcoord": 1404342,
+    "Latitude": -45.86253901,
+    "Longitude": 170.4793777
+  },
+  {
+    "Station ID": 3787,
+    "Station Name": "Wakatipu Voluntary Rural Fire Force",
+    "Ycoord": 5015293,
+    "Xcoord": 1271202,
+    "Latitude": -44.93970707,
+    "Longitude": 168.8326194
+  },
+  {
+    "Station ID": 3234,
+    "Station Name": "Wakefield Volunteer Fire Brigade",
+    "Ycoord": 5416253,
+    "Xcoord": 1603474,
+    "Latitude": -41.40525227,
+    "Longitude": 173.0415616
+  },
+  {
+    "Station ID": 3824,
+    "Station Name": "Wallacetown Volunteer Fire Brigade",
+    "Ycoord": 4858564,
+    "Xcoord": 1237476,
+    "Latitude": -46.3293842,
+    "Longitude": 168.2899062
+  },
+  {
+    "Station ID": 2777,
+    "Station Name": "Wallingford Voluntary Rural Fire Force",
+    "Ycoord": 5544833,
+    "Xcoord": 1905694,
+    "Latitude": -40.19121208,
+    "Longitude": 176.5908826
+  },
+  {
+    "Station ID": 3785,
+    "Station Name": "Wanaka Volunteer Fire Brigade",
+    "Ycoord": 5043597,
+    "Xcoord": 1294414,
+    "Latitude": -44.69583913,
+    "Longitude": 169.1431368
+  },
+  {
+    "Station ID": 3228,
+    "Station Name": "Ward Volunteer Fire Brigade",
+    "Ycoord": 5368768,
+    "Xcoord": 1694541,
+    "Latitude": -41.82732885,
+    "Longitude": 174.1384705
+  },
+  {
+    "Station ID": 1493,
+    "Station Name": "Warkworth Volunteer Fire Brigade",
+    "Ycoord": 5970273,
+    "Xcoord": 1749181,
+    "Latitude": -36.40112785,
+    "Longitude": 174.6636169
+  },
+  {
+    "Station ID": 3581,
+    "Station Name": "Washdyke Station",
+    "Ycoord": 5085441,
+    "Xcoord": 1460090,
+    "Latitude": -44.37080743,
+    "Longitude": 171.2439488
+  },
+  {
+    "Station ID": 2372,
+    "Station Name": "Waverley Volunteer Fire Brigade",
+    "Ycoord": 5597310,
+    "Xcoord": 1739835,
+    "Latitude": -39.76265687,
+    "Longitude": 174.6325059
+  }
+]
