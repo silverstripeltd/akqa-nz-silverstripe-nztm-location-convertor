@@ -1,0 +1,52 @@
+#!/usr/local/bin/php
+<?php
+/**
+ * nztm.php.
+ */
+
+require_once __DIR__ . "/../code/TMProjection.php";
+require_once __DIR__ . "/../code/CoOrdinates.php";
+
+
+$tm = new TMProjection(
+    TMProjection::NZTM_A,
+    TMProjection::NZTM_RF,
+    TMProjection::NZTM_CM / TMProjection::RAD2DEG,
+    TMProjection::NZTM_SF,
+    TMProjection::NZTM_OLAT / TMProjection::RAD2DEG,
+    TMProjection::NZTM_FE,
+    TMProjection::NZTM_FN,
+    1.0
+);
+
+/**
+ * @param TMProjection $tm
+ */
+function process(TMProjection $tm)
+{
+    while (1) {
+
+        /**
+         * Samples:
+         *    Easting: 1569306
+         *    Northing: 5177641
+         *
+         *    Easting: 1752115
+         *    Northing: 5931265
+         *
+         *    Easting: 2438136
+         *    Northing: 5079961
+         */
+
+        $easting = readline("Enter NZTM easting: ");
+        $northing = readline("Enter NZTM northing: ");
+
+        $coOrdinates = TMProjection::tm_eod($tm, $easting, $northing);
+
+        print "Co-ordinates: " . $coOrdinates . "\n";
+    }
+}
+
+
+process($tm);
+
