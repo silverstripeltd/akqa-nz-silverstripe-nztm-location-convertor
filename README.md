@@ -15,10 +15,10 @@ A conversion return a _CoOrdinates_ object and can be done in the following way:
 
 ```
 // Ycoord
-$northing = 4858564,
+$northing = 4858564;
 
 // Xcoord
-$easting = 1237476,
+$easting = 1237476;
 
 // The following returns an object using the default constants
 $tm = TMProjection::CreateDefaultTMProjection();
