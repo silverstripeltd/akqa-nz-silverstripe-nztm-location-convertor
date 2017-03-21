@@ -1,0 +1,17 @@
+{
+  "name": "heyday/silverstripe-nztm-location-convertor",
+  "type": "silverstripe-module",
+  "description": "SilverStripe module to convert NZ Transverse Mercator geo locations to latitude longitude",
+  "authors": [
+    {
+      "name": "Tim Higgs",
+      "email": "tim.higgs@heyday.co.nz"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.0"
+  }
+}
