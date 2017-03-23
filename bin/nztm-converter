@@ -4,9 +4,10 @@
  * nztm.php.
  */
 
-require_once __DIR__ . "/../code/TMProjection.php";
 require_once __DIR__ . "/../code/CoOrdinates.php";
+require_once __DIR__ . "/../code/TMProjection.php";
 
+use Heyday\NZTMLocationConvertor\TMProjection as TMProjection;
 
 $tm = new TMProjection(
     TMProjection::NZTM_A,
@@ -18,6 +19,7 @@ $tm = new TMProjection(
     TMProjection::NZTM_FN,
     1.0
 );
+
 
 /**
  * @param TMProjection $tm

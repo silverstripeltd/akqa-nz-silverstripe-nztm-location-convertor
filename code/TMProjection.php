@@ -60,8 +60,9 @@ class TMProjection
      * @param $fe
      * @param $fn
      * @param $utom
+     * @return TMProjection
      */
-    public function TMProjection($a, $rf, $cm, $sf, $lto, $fe, $fn, $utom)
+    public function __construct($a, $rf, $cm, $sf, $lto, $fe, $fn, $utom)
     {
         $this->meridian = $cm;
         $this->scalef = $sf;
@@ -83,8 +84,6 @@ class TMProjection
         $this->ep2 = $this->e2 / (1.0 - $this->e2);
 
         $this->om = self::meridian_arc($this, $this->orglat);
-
-        return $this;
     }
 
 
