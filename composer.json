@@ -1,6 +1,11 @@
 {
   "name": "heyday/silverstripe-nztm-location-convertor",
   "type": "silverstripe-module",
+  "autoload": {
+    "psr-4": {
+      "Heyday\\NZTMLocationConvertor\\": "code/"
+    }
+  },
   "description": "SilverStripe module to convert NZ Transverse Mercator geo locations to latitude longitude",
   "authors": [
     {
