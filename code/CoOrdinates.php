@@ -1,8 +1,10 @@
 <?php
-
 /**
  * CoOrdinates
  */
+
+namespace Heyday\NZTMLocationConvertor;
+
 class CoOrdinates
 {
     const DECIMAL_PLACES = 4;

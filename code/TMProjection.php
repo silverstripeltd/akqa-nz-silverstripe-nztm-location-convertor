@@ -1,14 +1,12 @@
 <?php
-
 /**
  * TMProjection
  */
 
-require_once "CoOrdinates.php";
+namespace Heyday\NZTMLocationConvertor;
 
 class TMProjection
 {
-
     const PI = 3.1415926535898;
     const TWOPI = (2.0 * self::PI);
     const RAD2DEG = (180 / self::PI);
