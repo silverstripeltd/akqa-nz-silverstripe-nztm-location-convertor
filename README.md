@@ -5,7 +5,7 @@ New Zealand Geodetic Datum 2000.
 
 Northings and eastings are in metres. Latitudes and longitudes are in radians.
 
-Note that Chatham Islands conversion does not return correct result.
+NOTE: that Chatham Islands conversion does not return correct result.
 
 
 ## Installation (composer required)
@@ -47,5 +47,5 @@ print $coOrdinates->getFormattedLongitude());
 Tests can be run:
 
 ```
-vendor/bin/phpunit tests/TMProjectionTest.php
+$ vendor/bin/phpunit tests/TMProjectionTest.php
 ```
