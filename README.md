@@ -8,6 +8,14 @@ Northings and eastings are in metres. Latitudes and longitudes are in radians.
 Note that Chatham Islands conversion does not return correct result.
 
 
+## Installation (composer required)
+
+```
+$ composer require "heyday/silverstripe-nztm-location-convertor:~1.0"
+```
+
+
+
 ## Usage
 
 
