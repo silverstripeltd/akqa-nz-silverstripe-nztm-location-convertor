@@ -39,6 +39,13 @@ print $coOrdinates->getFormattedLatitude());
 print $coOrdinates->getFormattedLongitude());
 ```
 
+## Commandline utility
+
+Included is also a sample commandline utility that can be run that prompts for easting and northing and will convert.  This can be run as follows:
+
+```
+$ ./bin/nztm-converter
+```
 
 
 
@@ -47,5 +54,5 @@ print $coOrdinates->getFormattedLongitude());
 Tests can be run:
 
 ```
-$ vendor/bin/phpunit tests/TMProjectionTest.php
+$ ./vendor/bin/phpunit tests/TMProjectionTest.php
 ```
