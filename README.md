@@ -33,10 +33,10 @@ $tm = TMProjection::CreateDefaultTMProjection();
 $coOrdinates = TMProjection::tm_eod($tm, $easting, $northing);
 
 // Latitude
-print $coOrdinates->getFormattedLatitude());
+print $coOrdinates->getFormattedLatitude();
 
 // Longitude
-print $coOrdinates->getFormattedLongitude());
+print $coOrdinates->getFormattedLongitude();
 ```
 
 ## Commandline utility
