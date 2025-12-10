@@ -12,7 +12,6 @@ class CoOrdinates
     public $latitude;
     public $longitude;
 
-
     /**
      * @return mixed
      */
